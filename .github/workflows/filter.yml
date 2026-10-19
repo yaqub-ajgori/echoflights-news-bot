@@ -1,0 +1,36 @@
+name: Filter news
+
+on:
+  schedule:
+    - cron: "5,35 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: filter
+  cancel-in-progress: false
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v7
+      - name: Score new items
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 filter.py
+      - name: Commit scores
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/scores
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Filter $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin main
+          git push origin HEAD:main

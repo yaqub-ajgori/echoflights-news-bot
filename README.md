@@ -32,3 +32,9 @@ Locally: `python3 check_sources.py` (Python 3.11+, no extra packages).
 - appends new stories to `data/items/YYYY-MM-DD.jsonl` (Bangladesh date) and commits them
 
 No AI and no posting at this step.
+
+## Step 3: filter
+
+`filter.py` runs every 30 minutes (**Filter news** workflow). It sends unscored headlines from the last 2 days to Gemma 4 31B (`gemma-4-31b-it`) in batches of 30, falling back to `gemini-3.5-flash-lite` if Gemma fails. Each item gets a 0–10 score for Bangladeshi travellers and expats, a topic, and a short English event label used later to match the same story across sources. Results go to `data/scores/YYYY-MM-DD.jsonl`; the run summary lists everything scoring 4 or more.
+
+Needs the `GEMINI_API_KEY` repository secret.
