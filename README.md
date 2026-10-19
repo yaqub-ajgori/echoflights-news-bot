@@ -21,3 +21,14 @@ Sources with several URLs try each in order and report the first one that works.
 GitHub → **Actions** → **Check sources** → **Run workflow**. The report appears on the run's summary page.
 
 Locally: `python3 check_sources.py` (Python 3.11+, no extra packages).
+
+## Step 2: collector
+
+`collect.py` runs every 10 minutes (**Collect news** workflow) and:
+
+- reads every feed in `sources.json`, skipping any whose `robots.txt` disallows the bot
+- skips stories already seen (`data/seen.json`, kept 14 days) and stories older than 48 hours
+- treats future-dated stories as published now
+- appends new stories to `data/items/YYYY-MM-DD.jsonl` (Bangladesh date) and commits them
+
+No AI and no posting at this step.
