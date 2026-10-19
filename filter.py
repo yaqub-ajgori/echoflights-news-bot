@@ -9,10 +9,11 @@ from datetime import datetime, timedelta, timezone
 BASE = os.path.dirname(os.path.abspath(__file__))
 ITEMS_DIR = os.path.join(BASE, "data", "items")
 SCORES_DIR = os.path.join(BASE, "data", "scores")
+LOG_FILE = os.path.join(BASE, "data", "logs", "filter.log")
 
 DHAKA = timezone(timedelta(hours=6))
 LOOKBACK_DAYS = 2
-BATCH_SIZE = 30
+BATCH_SIZE = 15
 SUMMARY_CHARS = 200
 MIN_SCORE_KEPT = 4
 MAX_RUN_SECONDS = 20 * 60
@@ -31,10 +32,14 @@ Score each item 0-10 for how useful it is to post for that audience today:
 - 4-6: indirect travel or aviation news Bangladeshi travellers might care about (travel advisories, airline policy changes, big airport news in hub countries).
 - 0-3: everything else: politics, sports, crime, business, entertainment, general world news, and generic "visa-free countries" lists.
 
-Items can be in English, Bangla or Arabic. Judge the meaning, not keywords.
+Rules:
+- Crime, arrests, raids and executions score 0-3 unless the item itself says Bangladeshis are involved, or it is a mass crackdown on foreign workers' residency or labour status. Never assume someone's nationality.
+- Weather scores 0-3 unless it closes airports or disrupts flights.
+- Items can be in English, Bangla or Arabic. Judge the meaning, not keywords.
 
 Reply with ONLY a JSON array, no other text. Include only items scoring 4 or higher; leave out the rest. Each element:
-{"id": "<item id>", "score": <0-10>, "topic": "<one of: flight_disruption, airline_offer, visa_rule, labour_rule, expat_alert, embassy_notice, accident, airport, travel_advisory, other>", "event": "<the event in at most 8 English words, so the same event from different sources gets the same label>"}
+{"id": "<item id>", "score": <0-10>, "topic": "<one of: flight_disruption, airline_offer, visa_rule, labour_rule, expat_alert, embassy_notice, accident, airport, travel_advisory, other>", "event": "<what THIS item's own headline reports, in at most 8 English words, so the same event from different sources gets the same label>"}
+Judge every item on its own text only; never carry details from one item to another.
 If no item scores 4 or higher, reply with []."""
 
 
@@ -89,7 +94,8 @@ def call_model(model, prompt):
     with urllib.request.urlopen(req, timeout=120) as resp:
         data = json.loads(resp.read())
     parts = data["candidates"][0]["content"]["parts"]
-    return "".join(p.get("text", "") for p in parts if not p.get("thought"))
+    text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+    return text, data.get("usageMetadata", {}).get("promptTokenCount")
 
 
 def parse_answer(text, batch_ids):
@@ -121,8 +127,9 @@ def score_batch(batch):
         for attempt in range(2):
             t0 = time.monotonic()
             try:
-                results = parse_answer(call_model(cfg["model"], prompt), ids)
-                return cfg["model"], results, estimate_tokens(SYSTEM_PROMPT + prompt), errors
+                text, prompt_tokens = call_model(cfg["model"], prompt)
+                results = parse_answer(text, ids)
+                return cfg["model"], results, prompt_tokens or estimate_tokens(SYSTEM_PROMPT + prompt), errors
             except urllib.error.HTTPError as e:
                 errors.append(f'{cfg["model"]}: HTTP {e.code} after {time.monotonic() - t0:.0f}s {e.read()[:200]!r}')
                 if e.code == 429:
@@ -145,13 +152,15 @@ def main():
 
     kept, done, failures, notes = [], 0, [], []
     window_start, window_tokens = time.monotonic(), 0
+    token_ratio = 1.0
 
     for n in range(0, len(pending), BATCH_SIZE):
         if time.monotonic() - started > MAX_RUN_SECONDS:
             break
         batch = pending[n:n + BATCH_SIZE]
 
-        need = estimate_tokens(SYSTEM_PROMPT + render_batch(batch))
+        estimate = estimate_tokens(SYSTEM_PROMPT + render_batch(batch))
+        need = estimate * token_ratio
         if time.monotonic() - window_start >= 60:
             window_start, window_tokens = time.monotonic(), 0
         if window_tokens + need > PRIMARY["tokens_per_minute"] * TOKEN_BUDGET_SHARE:
@@ -164,6 +173,8 @@ def main():
             failures.append(str(e))
             continue
         window_tokens += used
+        if model == PRIMARY["model"]:
+            token_ratio = max(1.0, used / estimate)
         notes.extend(errors)
 
         scored_at = datetime.now(timezone.utc).isoformat()
@@ -196,6 +207,13 @@ def main():
     if summary:
         with open(summary, "a", encoding="utf-8") as f:
             f.write(text + "\n")
+
+    os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(f"{now:%Y-%m-%d %H:%M} pending={len(pending)} scored={done} kept={len(kept)} "
+                f"failed={len(failures)} errors={len(notes)}\n")
+        for e in failures + notes:
+            f.write(f"  {e[:300]}\n")
 
 
 if __name__ == "__main__":
