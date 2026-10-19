@@ -119,10 +119,12 @@ def score_batch(batch):
     errors = []
     for cfg in (PRIMARY, FALLBACK):
         for attempt in range(2):
+            t0 = time.monotonic()
             try:
-                return cfg["model"], parse_answer(call_model(cfg["model"], prompt), ids), estimate_tokens(SYSTEM_PROMPT + prompt)
+                results = parse_answer(call_model(cfg["model"], prompt), ids)
+                return cfg["model"], results, estimate_tokens(SYSTEM_PROMPT + prompt), errors
             except urllib.error.HTTPError as e:
-                errors.append(f'{cfg["model"]}: HTTP {e.code} {e.read()[:200]!r}')
+                errors.append(f'{cfg["model"]}: HTTP {e.code} after {time.monotonic() - t0:.0f}s {e.read()[:200]!r}')
                 if e.code == 429:
                     time.sleep(60)
                 elif e.code >= 500:
@@ -130,7 +132,7 @@ def score_batch(batch):
                 else:
                     break
             except Exception as e:
-                errors.append(f'{cfg["model"]}: {type(e).__name__}: {str(e)[:200]}')
+                errors.append(f'{cfg["model"]}: {type(e).__name__} after {time.monotonic() - t0:.0f}s: {str(e)[:200]}')
     raise RuntimeError("; ".join(errors))
 
 
@@ -141,7 +143,7 @@ def main():
     os.makedirs(SCORES_DIR, exist_ok=True)
     score_file = os.path.join(SCORES_DIR, now.astimezone(DHAKA).strftime("%Y-%m-%d") + ".jsonl")
 
-    kept, done, failures = [], 0, []
+    kept, done, failures, notes = [], 0, [], []
     window_start, window_tokens = time.monotonic(), 0
 
     for n in range(0, len(pending), BATCH_SIZE):
@@ -157,11 +159,12 @@ def main():
             window_start, window_tokens = time.monotonic(), 0
 
         try:
-            model, results, used = score_batch(batch)
+            model, results, used, errors = score_batch(batch)
         except RuntimeError as e:
             failures.append(str(e))
             continue
         window_tokens += used
+        notes.extend(errors)
 
         scored_at = datetime.now(timezone.utc).isoformat()
         with open(score_file, "a", encoding="utf-8") as f:
@@ -184,7 +187,9 @@ def main():
     ]
     lines += [f'| {r["score"]} | {r["topic"]} | {i["source"]} | {i["title"][:90]} | {r["event"]} |' for r, i in kept]
     if failures:
-        lines += ["", "Failures:"] + [f"- {f[:300]}" for f in failures]
+        lines += ["", "Failed batches:"] + [f"- {f[:300]}" for f in failures]
+    if notes:
+        lines += ["", "Errors before a successful retry or fallback:"] + [f"- {n[:300]}" for n in notes]
     text = "\n".join(lines)
     print(text)
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
