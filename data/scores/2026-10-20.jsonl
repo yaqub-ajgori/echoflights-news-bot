@@ -1313,3 +1313,36 @@
 {"id": "de9964db0693", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T07:30:33.846192+00:00"}
 {"id": "1a2c472b8db3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T07:31:22.797241+00:00"}
 {"id": "2564534d355c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T07:31:22.797241+00:00"}
+{"id": "19e6fda63874", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "bd5752f63f45", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "e2a5cc87ef82", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "a268cdca276c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "20dc60128246", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "027061192df0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "377ff7370dd3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "b40ad6099f36", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "d8c93318e2bc", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "31a0084a237f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "dca73034279e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "42f2eb3b2686", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "c3eebe68d044", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "9cdaa16bbe3d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "cdc59904675b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-20T08:01:20.138835+00:00"}
+{"id": "71b0c968c97c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "70859ed2fcd9", "score": 8, "topic": "flight_disruption", "event": "UAE and Saudi flight disruptions and cancellations", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "f4d2c1beb063", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "a0352556a339", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "ca511e525b83", "score": 9, "topic": "expat_alert", "event": "Misinformation on Bangladeshi executions in Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "090647c8a800", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "f86fbd60fe41", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "a7458d449a37", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "a252060a0f28", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "a23041c47675", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "0da91b8b7c81", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "48f860683490", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "2ed8e03f4095", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "fa82baf3d3ba", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "3c95860f5bb8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:00.024431+00:00"}
+{"id": "8a81d8142d60", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:34.936142+00:00"}
+{"id": "866383f04550", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:34.936142+00:00"}
+{"id": "6f1124da8747", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-20T08:03:34.936142+00:00"}
