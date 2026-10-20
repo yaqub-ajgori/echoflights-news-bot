@@ -180,3 +180,7 @@
 2026-10-20 16:04:27 calling gemini-3.5-flash-lite
 2026-10-20 16:04:49 done: candidates=40 groups={'verified': 2, 'already_drafted': 2, 'single_source': 8} drafts=0 errors=1
 2026-10-20 16:04:49   error: gemini-3.5-flash-lite: HTTP 503 after 5s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-20 16:33:36 draft run started
+2026-10-20 16:33:36 40 candidates, 2 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 18, 'gemini-3.6-flash': 18}
+2026-10-20 16:33:36 calling gemini-3.5-flash-lite
+2026-10-20 16:33:59 done: candidates=40 groups={'verified': 2, 'already_drafted': 2, 'single_source': 9} drafts=0 errors=0
