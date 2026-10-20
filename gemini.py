@@ -35,16 +35,19 @@ def extract_json(text, opener="{"):
     return json.loads(text[start:end + 1])
 
 
-def generate_json(models, system, prompt, opener="{", json_mode=False, errors=None, deadline=None, log=None, timeout=120):
+def generate_json(models, system, prompt, opener="{", json_mode=False, errors=None, deadline=None, log=None, timeout=120,
+                  tries_per_model=2, on_call=None):
     errors = errors if errors is not None else []
     for model in models:
-        for _ in range(2):
+        for _ in range(tries_per_model):
             if deadline and time.monotonic() > deadline:
                 errors.append(f"{model}: skipped, run time budget used up")
                 raise RuntimeError("; ".join(errors[-4:]))
             t0 = time.monotonic()
             if log:
                 log(f"calling {model}")
+            if on_call:
+                on_call(model)
             try:
                 text = generate(model, system, prompt, json_mode=json_mode and model.startswith("gemini"), timeout=timeout)
                 return model, extract_json(text, opener)

@@ -29,10 +29,12 @@ DRAFT_MIN_SCORE = 8
 MAX_CANDIDATES = 40
 MAX_STORIES_PER_RUN = 2
 DAILY_APPROVED_LIMIT = 5
-DAILY_WRITER_CALLS = 12
-MAX_SOURCES_PER_STORY = 4
+MAX_SOURCES_PER_STORY = 3
 ARTICLE_CHARS = 4000
-REVIEW_CHARS_PER_SOURCE = 1800
+REVIEW_CHARS_PER_SOURCE = ARTICLE_CHARS
+MAX_CALLS_PER_FLASH_MODEL = 18
+MAX_RETRIES = 2
+RETRIES_FILE = os.path.join(STORIES, "retries.json")
 RUN_BUDGET_SECONDS = 18 * 60
 CLUSTER_TIMEOUT = 90
 WRITER_TIMEOUT = 240
@@ -87,6 +89,8 @@ Reply with ONLY a JSON array:
 [{"ids": ["<id>", ...], "event": "<event in at most 10 English words>", "drafted": "<drafted id or null>"}]"""
 
 WRITER_PROMPT = """You are the news editor of EchoFlights, a Bangladeshi travel brand. You write short, accurate news posts in natural Bangla for Bangladeshi travellers and Bangladeshi workers abroad.
+
+The current Dhaka date and time is given as NOW. Sources may describe plans ("will return on Tuesday"). If NOW is after the planned time, do not write it as a future event, and do not claim it happened unless a source says so; write what the source reported (for example: "... মঙ্গলবার দুপুরে দেশে ফেরার কথা ছিল বলে জানিয়েছে প্রথম আলো").
 
 ACCURACY RULES (most important):
 - Use ONLY facts stated in the SOURCES. Never add numbers, names, dates, places, quotes, causes or consequences that the sources do not state.
@@ -347,14 +351,30 @@ def review(draft, blocks, errors):
     return model, result.get("verdict") == "pass", issues
 
 
-def load_usage(now):
+def load_json(path, default):
     try:
-        with open(USAGE_FILE, encoding="utf-8") as f:
-            usage = json.load(f)
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
     except FileNotFoundError:
-        usage = {}
+        return default
+
+
+def save_json(path, data):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=1)
+
+
+def load_usage(now):
+    usage = load_json(USAGE_FILE, {})
     key = now.astimezone(PACIFIC).strftime("%Y-%m-%d")
+    if not isinstance(usage.get(key), dict):
+        usage[key] = {}
     return usage, key
+
+
+def writer_models_left(usage, usage_key):
+    return [m for m in WRITER_MODELS if usage[usage_key].get(m, 0) < MAX_CALLS_PER_FLASH_MODEL]
 
 
 def save_usage(usage):
@@ -366,20 +386,27 @@ def save_usage(usage):
 
 def write_story(group, now, usage, usage_key, errors):
     blocks = source_blocks(group)
-    base_prompt = (f"TOPIC: {group['topic']}\nEVENT: {group['event']}\n\nSOURCES:\n" + render_sources(blocks))
+    now_text = now.astimezone(DHAKA).strftime("%A %d %B %Y, %H:%M")
+    base_prompt = (f"NOW: {now_text} (Dhaka)\nTOPIC: {group['topic']}\nEVENT: {group['event']}\n\nSOURCES:\n" + render_sources(blocks))
     attempts = []
     prompt = base_prompt
+
+    def count(model):
+        usage[usage_key][model] = usage[usage_key].get(model, 0) + 1
+
     for attempt in range(2):
-        if usage[usage_key] >= DAILY_WRITER_CALLS or time.monotonic() > DEADLINE:
+        models = writer_models_left(usage, usage_key)
+        if not models or time.monotonic() > DEADLINE:
             break
-        usage[usage_key] += 1
         try:
-            writer_model, draft = gemini.generate_json(WRITER_MODELS, WRITER_PROMPT, prompt, json_mode=True, errors=errors,
-                                                       deadline=DEADLINE, log=log, timeout=WRITER_TIMEOUT)
+            writer_model, draft = gemini.generate_json(models, WRITER_PROMPT, prompt, json_mode=True, errors=errors,
+                                                       deadline=DEADLINE, log=log, timeout=WRITER_TIMEOUT,
+                                                       tries_per_model=1, on_call=count)
         except RuntimeError as e:
             if not attempts:
                 raise
             attempts[-1]["issues"].append({"field": "-", "type": 0, "problem": f"rewrite could not run: {str(e)[:150]}", "fix": ""})
+            attempts[-1]["rewrite_failed"] = True
             break
         issues = code_checks(draft, blocks, now)
         try:
@@ -398,10 +425,14 @@ def write_story(group, now, usage, usage_key, errors):
     return blocks, attempts
 
 
-def save_draft(group, blocks, attempts, now):
+def save_draft(group, blocks, attempts, now, retries):
     final = attempts[-1]
     draft = final["draft"]
     status = "approved" if final["passed"] else "rejected"
+    if status == "rejected" and final.get("rewrite_failed"):
+        retries[group["story_id"]] = retries.get(group["story_id"], 0) + 1
+        if retries[group["story_id"]] < MAX_RETRIES:
+            status = "retry_later"
     day = now.astimezone(DHAKA).strftime("%Y-%m-%d")
     folder = os.path.join(DRAFTS, day, group["story_id"])
     os.makedirs(folder, exist_ok=True)
@@ -425,9 +456,10 @@ def save_draft(group, blocks, attempts, now):
     }
     with open(os.path.join(folder, "draft.json"), "w", encoding="utf-8") as f:
         json.dump(record, f, ensure_ascii=False, indent=1)
-    append_jsonl(DRAFTED_FILE, [{"story_id": group["story_id"], "status": status, "created": now.isoformat(),
-                                 "event": group["event"], "headline": draft.get("card_headline", ""),
-                                 "item_ids": [i["id"] for i in group["items"]]}])
+    if status != "retry_later":
+        append_jsonl(DRAFTED_FILE, [{"story_id": group["story_id"], "status": status, "created": now.isoformat(),
+                                     "event": group["event"], "headline": draft.get("card_headline", ""),
+                                     "item_ids": [i["id"] for i in group["items"]]}])
     return record
 
 
@@ -443,7 +475,7 @@ def write_review_page(now):
     for r in records[:30]:
         d = r["draft"]
         created = datetime.fromisoformat(r["created"]).astimezone(DHAKA).strftime("%d %b %H:%M")
-        mark = "✅ approved" if r["status"] == "approved" else "❌ rejected"
+        mark = {"approved": "✅ approved", "rejected": "❌ rejected", "retry_later": "⏳ will retry"}.get(r["status"], r["status"])
         lines += [
             f'## {d.get("card_headline", "")}',
             "",
@@ -482,7 +514,7 @@ def main():
     candidates = load_candidates(now, sources)
     drafted = [d for d in load_jsonl(DRAFTED_FILE) if now - parse_time(d["created"]) < timedelta(days=3)]
     usage, usage_key = load_usage(now)
-    usage.setdefault(usage_key, 0)
+    retries = load_json(RETRIES_FILE, {})
     today = now.astimezone(DHAKA).strftime("%Y-%m-%d")
     approved_today = sum(1 for d in load_jsonl(DRAFTED_FILE)
                          if d["status"] == "approved" and parse_time(d["created"]).astimezone(DHAKA).strftime("%Y-%m-%d") == today)
@@ -503,9 +535,11 @@ def main():
 
     made = []
     for g in sorted((g for g in groups if g["status"] == "verified"), key=lambda g: (-g["max_score"], -len(g["publishers"]))):
-        if (approved_today >= DAILY_APPROVED_LIMIT or usage[usage_key] >= DAILY_WRITER_CALLS
+        if (approved_today >= DAILY_APPROVED_LIMIT or not writer_models_left(usage, usage_key)
                 or time.monotonic() > DEADLINE or len(made) >= MAX_STORIES_PER_RUN):
             break
+        if retries.get(g["story_id"], 0) >= MAX_RETRIES:
+            continue
         log(f'writing story {g["story_id"]}: {g["event"]}')
         try:
             blocks, attempts = write_story(g, now, usage, usage_key, errors)
@@ -514,8 +548,9 @@ def main():
             continue
         if not attempts:
             break
-        rec = save_draft(g, blocks, attempts, now)
+        rec = save_draft(g, blocks, attempts, now, retries)
         save_usage(usage)
+        save_json(RETRIES_FILE, retries)
         made.append(rec)
         log(f'saved {rec["status"]} draft {g["story_id"]}')
         if rec["status"] == "approved":
@@ -530,7 +565,7 @@ def main():
         count[g["status"]] = count.get(g["status"], 0) + 1
     lines = [f"# Draft — {now:%Y-%m-%d %H:%M} UTC", "",
              f"Candidates (score ≥ {CANDIDATE_MIN_SCORE}): {len(candidates)} · groups: " + ", ".join(f"{k} {v}" for k, v in sorted(count.items())),
-             f"Writer calls today (Pacific day): {usage[usage_key]}/{DAILY_WRITER_CALLS} · approved today (Dhaka): {approved_today}/{DAILY_APPROVED_LIMIT}", ""]
+             f"Writer calls today (Pacific day): {usage[usage_key]} (max {MAX_CALLS_PER_FLASH_MODEL} per model) · approved today (Dhaka): {approved_today}/{DAILY_APPROVED_LIMIT}", ""]
     lines += ["| Status | Score | Sources | Event |", "|---|---|---|---|"]
     for g in sorted(groups, key=lambda g: (-g["max_score"], g["status"])):
         lines.append(f'| {g["status"]} | {g["max_score"]} | {", ".join(g["publishers"])} | {g["event"]} |')
