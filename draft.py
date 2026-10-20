@@ -3,6 +3,7 @@ import hashlib
 import json
 import os
 import re
+import time
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
@@ -31,6 +32,18 @@ DAILY_WRITER_CALLS = 12
 MAX_SOURCES_PER_STORY = 4
 ARTICLE_CHARS = 4000
 REVIEW_CHARS_PER_SOURCE = 1800
+RUN_BUDGET_SECONDS = 13 * 60
+FETCH_SECONDS = 25
+LOG_FILE = os.path.join(DATA, "logs", "draft.log")
+DEADLINE = None
+
+
+def log(message):
+    line = f"{datetime.now(timezone.utc):%Y-%m-%d %H:%M:%S} {message}"
+    print(line, flush=True)
+    os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(line + "\n")
 
 CLUSTER_MODELS = ["gemma-4-31b-it", "gemini-3.5-flash-lite"]
 WRITER_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash"]
@@ -161,9 +174,17 @@ def fetch_article(url):
     if not url or robots_allowed(url) == "no":
         return ""
     try:
+        started = time.monotonic()
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-            body = resp.read(MAX_BYTES).decode(resp.headers.get_content_charset() or "utf-8", "replace")
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            chunks, size = [], 0
+            while size < MAX_BYTES and time.monotonic() - started < FETCH_SECONDS:
+                chunk = resp.read(65536)
+                if not chunk:
+                    break
+                chunks.append(chunk)
+                size += len(chunk)
+            body = b"".join(chunks).decode(resp.headers.get_content_charset() or "utf-8", "replace")
         parser = ParagraphText()
         parser.feed(body)
         return "\n".join(parser.parts)[:ARTICLE_CHARS]
@@ -203,7 +224,7 @@ def cluster(candidates, drafted, errors):
     lines = [f'{c["id"]} | {c["source"]} | {c["title"]} | {c["summary"][:150]} | label: {c["event"]}' for c in candidates]
     drafted_lines = [f'{d["story_id"]} | {d["event"]} | {d["headline"]}' for d in drafted] or ["(none)"]
     prompt = "ITEMS:\n" + "\n".join(lines) + "\n\nDRAFTED:\n" + "\n".join(drafted_lines)
-    _, groups = gemini.generate_json(CLUSTER_MODELS, CLUSTER_PROMPT, prompt, opener="[", errors=errors)
+    _, groups = gemini.generate_json(CLUSTER_MODELS, CLUSTER_PROMPT, prompt, opener="[", errors=errors, deadline=DEADLINE, log=log)
     by_id = {c["id"]: c for c in candidates}
     drafted_ids = {d["story_id"] for d in drafted}
     used, out = set(), []
@@ -253,6 +274,7 @@ def source_blocks(group, fetch=True):
             break
     blocks = []
     for item in chosen:
+        log(f'fetching {item["display"]}: {item["link"][:100]}')
         text = fetch_article(item["link"]) if fetch else ""
         blocks.append({
             "outlet": item["display"],
@@ -313,7 +335,7 @@ def code_checks(draft, blocks, now):
 def review(draft, blocks, errors):
     shown = {k: draft.get(k, "") for k in ("card_headline", "card_subline", "caption", "blog_body")}
     prompt = "SOURCES:\n" + render_sources(blocks, REVIEW_CHARS_PER_SOURCE) + "\n\nDRAFT:\n" + json.dumps(shown, ensure_ascii=False, indent=1)
-    model, result = gemini.generate_json(REVIEW_MODELS, REVIEW_PROMPT, prompt, errors=errors)
+    model, result = gemini.generate_json(REVIEW_MODELS, REVIEW_PROMPT, prompt, errors=errors, deadline=DEADLINE, log=log)
     issues = [i for i in result.get("issues", []) if isinstance(i, dict)]
     return model, result.get("verdict") == "pass", issues
 
@@ -341,10 +363,11 @@ def write_story(group, now, usage, usage_key, errors):
     attempts = []
     prompt = base_prompt
     for attempt in range(2):
-        if usage[usage_key] >= DAILY_WRITER_CALLS:
+        if usage[usage_key] >= DAILY_WRITER_CALLS or time.monotonic() > DEADLINE:
             break
         usage[usage_key] += 1
-        writer_model, draft = gemini.generate_json(WRITER_MODELS, WRITER_PROMPT, prompt, json_mode=True, errors=errors)
+        writer_model, draft = gemini.generate_json(WRITER_MODELS, WRITER_PROMPT, prompt, json_mode=True, errors=errors,
+                                                   deadline=DEADLINE, log=log)
         issues = code_checks(draft, blocks, now)
         try:
             review_model, passed, review_issues = review(draft, blocks, errors)
@@ -352,6 +375,7 @@ def write_story(group, now, usage, usage_key, errors):
             review_model, passed, review_issues = None, False, [{"field": "-", "type": 0, "problem": f"review failed: {e}", "fix": ""}]
         all_issues = issues + review_issues
         ok = passed and not issues
+        log(f'attempt {attempt + 1}: {"passed" if ok else "failed"} with {len(all_issues)} issues')
         attempts.append({"writer": writer_model, "reviewer": review_model, "passed": ok, "issues": all_issues, "draft": draft})
         if ok:
             break
@@ -436,8 +460,11 @@ def write_review_page(now):
 
 
 def main():
+    global DEADLINE
+    DEADLINE = time.monotonic() + RUN_BUDGET_SECONDS
     now = datetime.now(timezone.utc)
     errors = []
+    log("draft run started")
     sources = load_sources()
     candidates = load_candidates(now, sources)
     drafted = [d for d in load_jsonl(DRAFTED_FILE) if now - parse_time(d["created"]) < timedelta(days=3)]
@@ -447,6 +474,7 @@ def main():
     approved_today = sum(1 for d in load_jsonl(DRAFTED_FILE)
                          if d["status"] == "approved" and parse_time(d["created"]).astimezone(DHAKA).strftime("%Y-%m-%d") == today)
 
+    log(f"{len(candidates)} candidates, {len(drafted)} drafted in last 3 days, writer calls used {usage[usage_key]}")
     groups = []
     if candidates:
         try:
@@ -462,8 +490,9 @@ def main():
 
     made = []
     for g in sorted((g for g in groups if g["status"] == "verified"), key=lambda g: (-g["max_score"], -len(g["publishers"]))):
-        if approved_today >= DAILY_APPROVED_LIMIT or usage[usage_key] >= DAILY_WRITER_CALLS:
+        if approved_today >= DAILY_APPROVED_LIMIT or usage[usage_key] >= DAILY_WRITER_CALLS or time.monotonic() > DEADLINE:
             break
+        log(f'writing story {g["story_id"]}: {g["event"]}')
         try:
             blocks, attempts = write_story(g, now, usage, usage_key, errors)
         except RuntimeError as e:
@@ -472,7 +501,9 @@ def main():
         if not attempts:
             break
         rec = save_draft(g, blocks, attempts, now)
+        save_usage(usage)
         made.append(rec)
+        log(f'saved {rec["status"]} draft {g["story_id"]}')
         if rec["status"] == "approved":
             approved_today += 1
     save_usage(usage)
@@ -499,11 +530,9 @@ def main():
     if summary:
         with open(summary, "a", encoding="utf-8") as f:
             f.write(text + "\n")
-    os.makedirs(os.path.join(DATA, "logs"), exist_ok=True)
-    with open(os.path.join(DATA, "logs", "draft.log"), "a", encoding="utf-8") as f:
-        f.write(f"{now:%Y-%m-%d %H:%M} candidates={len(candidates)} groups={count} drafts={len(made)} errors={len(errors)}\n")
-        for e in errors:
-            f.write(f"  {e[:300]}\n")
+    log(f"done: candidates={len(candidates)} groups={count} drafts={len(made)} errors={len(errors)}")
+    for e in errors:
+        log(f"  error: {e[:300]}")
 
 
 if __name__ == "__main__":

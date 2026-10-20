@@ -33,10 +33,13 @@ jobs:
             curl -sfL -A "EchoFlightsNewsBot/0.1 (+https://echoflights.com)" -o assets/logo_white.png https://echoflights.com/images/logos/logo_white.png || rm -f assets/logo_white.png
           fi
       - name: Verify, write and design drafts
+        timeout-minutes: 15
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PYTHONUNBUFFERED: "1"
         run: python3 draft.py
       - name: Commit drafts
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

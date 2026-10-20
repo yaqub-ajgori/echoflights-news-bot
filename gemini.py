@@ -7,7 +7,7 @@ import urllib.request
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
 
-def generate(model, system, prompt, json_mode=False, timeout=180):
+def generate(model, system, prompt, json_mode=False, timeout=120):
     config = {"responseMimeType": "application/json"} if json_mode else {}
     body = {
         "systemInstruction": {"parts": [{"text": system}]},
@@ -35,17 +35,22 @@ def extract_json(text, opener="{"):
     return json.loads(text[start:end + 1])
 
 
-def generate_json(models, system, prompt, opener="{", json_mode=False, errors=None):
+def generate_json(models, system, prompt, opener="{", json_mode=False, errors=None, deadline=None, log=None):
     errors = errors if errors is not None else []
     for model in models:
         for _ in range(2):
+            if deadline and time.monotonic() > deadline:
+                errors.append(f"{model}: skipped, run time budget used up")
+                raise RuntimeError("; ".join(errors[-4:]))
             t0 = time.monotonic()
+            if log:
+                log(f"calling {model}")
             try:
                 return model, extract_json(generate(model, system, prompt, json_mode=json_mode), opener)
             except urllib.error.HTTPError as e:
                 errors.append(f"{model}: HTTP {e.code} after {time.monotonic() - t0:.0f}s {e.read()[:200]!r}")
                 if e.code == 429:
-                    time.sleep(60)
+                    time.sleep(30)
                 elif e.code >= 500:
                     time.sleep(10)
                 else:
