@@ -16,7 +16,7 @@ concurrency:
 jobs:
   draft:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 28
     steps:
       - uses: actions/checkout@v7
         with:
@@ -33,7 +33,7 @@ jobs:
             curl -sfL -A "EchoFlightsNewsBot/0.1 (+https://echoflights.com)" -o assets/logo_white.png https://echoflights.com/images/logos/logo_white.png || rm -f assets/logo_white.png
           fi
       - name: Verify, write and design drafts
-        timeout-minutes: 15
+        timeout-minutes: 23
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PYTHONUNBUFFERED: "1"

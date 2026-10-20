@@ -26,13 +26,17 @@ PACIFIC = ZoneInfo("America/Los_Angeles")
 LOOKBACK = timedelta(hours=36)
 CANDIDATE_MIN_SCORE = 7
 DRAFT_MIN_SCORE = 8
-MAX_CANDIDATES = 50
+MAX_CANDIDATES = 40
+MAX_STORIES_PER_RUN = 2
 DAILY_APPROVED_LIMIT = 5
 DAILY_WRITER_CALLS = 12
 MAX_SOURCES_PER_STORY = 4
 ARTICLE_CHARS = 4000
 REVIEW_CHARS_PER_SOURCE = 1800
-RUN_BUDGET_SECONDS = 13 * 60
+RUN_BUDGET_SECONDS = 18 * 60
+CLUSTER_TIMEOUT = 90
+WRITER_TIMEOUT = 240
+REVIEW_TIMEOUT = 200
 FETCH_SECONDS = 25
 LOG_FILE = os.path.join(DATA, "logs", "draft.log")
 DEADLINE = None
@@ -45,7 +49,7 @@ def log(message):
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(line + "\n")
 
-CLUSTER_MODELS = ["gemma-4-31b-it", "gemini-3.5-flash-lite"]
+CLUSTER_MODELS = ["gemini-3.5-flash-lite", "gemma-4-31b-it"]
 WRITER_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash"]
 REVIEW_MODELS = ["gemma-4-31b-it", "gemini-3.5-flash-lite"]
 
@@ -105,7 +109,7 @@ OUTPUT: reply with ONLY one JSON object with these keys:
 - "blog_title": Bangla title for the blog post.
 - "blog_slug": English URL slug, lowercase words joined by hyphens, at most 8 words.
 - "meta_description": Bangla, at most 150 characters.
-- "blog_body": the blog post in Bangla Markdown, 250-450 words: an opening paragraph, a "## কী ঘটেছে" section, a "## বাংলাদেশি যাত্রী ও প্রবাসীদের জন্য" section (only what the sources support, plus general safe guidance), and a "## সূত্র" list of outlet names.
+- "blog_body": the blog post in Bangla Markdown, 200-350 words: an opening paragraph, a "## কী ঘটেছে" section, a "## বাংলাদেশি যাত্রী ও প্রবাসীদের জন্য" section (only what the sources support, plus general safe guidance), and a "## সূত্র" list of outlet names.
 - "facts": list of {"fact": "<one fact you used, in Bangla>", "source": "<outlet name>"}."""
 
 REVIEW_PROMPT = """You are a strict fact-checker and Bangla copy editor for a news page. Compare the DRAFT with the SOURCES.
@@ -115,11 +119,12 @@ Report a problem when:
 2. A number, name, place or date is different from the sources.
 3. The headline is misleading or exaggerates.
 4. The Bangla is wrong or clearly unnatural (wrong word, broken grammar, literal translation).
+5. The sources do not all report the same event, so the draft mixes different stories.
 
-Set "verdict" to "fail" if there is any problem of type 1, 2 or 3, or a serious type 4 problem. Minor style suggestions do not cause a fail.
+Set "verdict" to "fail" if there is any problem of type 1, 2, 3 or 5, or a serious type 4 problem. Minor style suggestions do not cause a fail.
 
 Reply with ONLY one JSON object:
-{"verdict": "pass" or "fail", "issues": [{"field": "<card_headline|card_subline|caption|blog_body>", "type": <1-4>, "problem": "<short English description>", "fix": "<suggested correction>"}]}"""
+{"verdict": "pass" or "fail", "issues": [{"field": "<card_headline|card_subline|caption|blog_body>", "type": <1-5>, "problem": "<short English description>", "fix": "<suggested correction>"}]}"""
 
 
 def load_jsonl(path):
@@ -224,7 +229,8 @@ def cluster(candidates, drafted, errors):
     lines = [f'{c["id"]} | {c["source"]} | {c["title"]} | {c["summary"][:150]} | label: {c["event"]}' for c in candidates]
     drafted_lines = [f'{d["story_id"]} | {d["event"]} | {d["headline"]}' for d in drafted] or ["(none)"]
     prompt = "ITEMS:\n" + "\n".join(lines) + "\n\nDRAFTED:\n" + "\n".join(drafted_lines)
-    _, groups = gemini.generate_json(CLUSTER_MODELS, CLUSTER_PROMPT, prompt, opener="[", errors=errors, deadline=DEADLINE, log=log)
+    _, groups = gemini.generate_json(CLUSTER_MODELS, CLUSTER_PROMPT, prompt, opener="[", json_mode=True, errors=errors,
+                                     deadline=DEADLINE, log=log, timeout=CLUSTER_TIMEOUT)
     by_id = {c["id"]: c for c in candidates}
     drafted_ids = {d["story_id"] for d in drafted}
     used, out = set(), []
@@ -335,7 +341,8 @@ def code_checks(draft, blocks, now):
 def review(draft, blocks, errors):
     shown = {k: draft.get(k, "") for k in ("card_headline", "card_subline", "caption", "blog_body")}
     prompt = "SOURCES:\n" + render_sources(blocks, REVIEW_CHARS_PER_SOURCE) + "\n\nDRAFT:\n" + json.dumps(shown, ensure_ascii=False, indent=1)
-    model, result = gemini.generate_json(REVIEW_MODELS, REVIEW_PROMPT, prompt, errors=errors, deadline=DEADLINE, log=log)
+    model, result = gemini.generate_json(REVIEW_MODELS, REVIEW_PROMPT, prompt, errors=errors, deadline=DEADLINE, log=log,
+                                         timeout=REVIEW_TIMEOUT)
     issues = [i for i in result.get("issues", []) if isinstance(i, dict)]
     return model, result.get("verdict") == "pass", issues
 
@@ -366,8 +373,14 @@ def write_story(group, now, usage, usage_key, errors):
         if usage[usage_key] >= DAILY_WRITER_CALLS or time.monotonic() > DEADLINE:
             break
         usage[usage_key] += 1
-        writer_model, draft = gemini.generate_json(WRITER_MODELS, WRITER_PROMPT, prompt, json_mode=True, errors=errors,
-                                                   deadline=DEADLINE, log=log)
+        try:
+            writer_model, draft = gemini.generate_json(WRITER_MODELS, WRITER_PROMPT, prompt, json_mode=True, errors=errors,
+                                                       deadline=DEADLINE, log=log, timeout=WRITER_TIMEOUT)
+        except RuntimeError as e:
+            if not attempts:
+                raise
+            attempts[-1]["issues"].append({"field": "-", "type": 0, "problem": f"rewrite could not run: {str(e)[:150]}", "fix": ""})
+            break
         issues = code_checks(draft, blocks, now)
         try:
             review_model, passed, review_issues = review(draft, blocks, errors)
@@ -490,7 +503,8 @@ def main():
 
     made = []
     for g in sorted((g for g in groups if g["status"] == "verified"), key=lambda g: (-g["max_score"], -len(g["publishers"]))):
-        if approved_today >= DAILY_APPROVED_LIMIT or usage[usage_key] >= DAILY_WRITER_CALLS or time.monotonic() > DEADLINE:
+        if (approved_today >= DAILY_APPROVED_LIMIT or usage[usage_key] >= DAILY_WRITER_CALLS
+                or time.monotonic() > DEADLINE or len(made) >= MAX_STORIES_PER_RUN):
             break
         log(f'writing story {g["story_id"]}: {g["event"]}')
         try:

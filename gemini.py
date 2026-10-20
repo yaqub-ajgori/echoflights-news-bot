@@ -35,7 +35,7 @@ def extract_json(text, opener="{"):
     return json.loads(text[start:end + 1])
 
 
-def generate_json(models, system, prompt, opener="{", json_mode=False, errors=None, deadline=None, log=None):
+def generate_json(models, system, prompt, opener="{", json_mode=False, errors=None, deadline=None, log=None, timeout=120):
     errors = errors if errors is not None else []
     for model in models:
         for _ in range(2):
@@ -46,13 +46,14 @@ def generate_json(models, system, prompt, opener="{", json_mode=False, errors=No
             if log:
                 log(f"calling {model}")
             try:
-                return model, extract_json(generate(model, system, prompt, json_mode=json_mode), opener)
+                text = generate(model, system, prompt, json_mode=json_mode and model.startswith("gemini"), timeout=timeout)
+                return model, extract_json(text, opener)
             except urllib.error.HTTPError as e:
                 errors.append(f"{model}: HTTP {e.code} after {time.monotonic() - t0:.0f}s {e.read()[:200]!r}")
                 if e.code == 429:
                     time.sleep(30)
                 elif e.code >= 500:
-                    time.sleep(10)
+                    time.sleep(20)
                 else:
                     break
             except Exception as e:
