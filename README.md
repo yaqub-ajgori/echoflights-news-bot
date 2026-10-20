@@ -38,3 +38,17 @@ No AI and no posting at this step.
 `filter.py` runs every 30 minutes (**Filter news** workflow). It sends unscored headlines from the last 2 days to Gemma 4 31B (`gemma-4-31b-it`) in batches of 30, falling back to `gemini-3.5-flash-lite` if Gemma fails. Each item gets a 0–10 score for Bangladeshi travellers and expats, a topic, and a short English event label used later to match the same story across sources. Results go to `data/scores/YYYY-MM-DD.jsonl`; the run summary lists everything scoring 4 or more.
 
 Needs the `GEMINI_API_KEY` repository secret.
+
+## Step 4: draft (dry run)
+
+`draft.py` runs after every **Filter news** run (**Draft posts** workflow). Nothing is published.
+
+1. **Group:** stories scoring 7+ from the last 36 hours are grouped by event (Gemma 4 31B, Flash Lite fallback).
+2. **Verify:** a group is drafted only if it scores 8+ and at least 2 different publishers report it (or 1 official source). Every decision is logged in `data/stories/YYYY-MM-DD.jsonl`.
+3. **Write:** Gemini 3.8 Flash writes the Bangla card headline, subline, Facebook caption with hashtags, and blog post, using only facts from the source articles (fetched only where `robots.txt` allows).
+4. **Check:** code checks every number against the sources plus format rules; Gemma reviews facts and Bangla. On any problem the draft is rewritten once; if it still fails it is saved as rejected.
+5. **Card:** `card.py` draws the 1080×1080 EchoFlights card (Hind Siliguri font, SIL Open Font License in `assets/fonts/OFL.txt`).
+
+Limits: 5 approved drafts per Dhaka day; at most 12 writer calls per Pacific day (free tier allows 20).
+
+**Review drafts at [`data/drafts/README.md`](data/drafts/README.md).**

@@ -1,0 +1,50 @@
+name: Draft posts
+
+on:
+  workflow_run:
+    workflows: ["Filter news"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: draft
+  cancel-in-progress: false
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Install image libraries
+        run: |
+          sudo apt-get update -qq || true
+          sudo apt-get install -y -qq libfribidi0 || true
+          pip install --quiet pillow
+          python3 -c "from PIL import features; assert features.check('raqm'), 'Bangla text shaping (raqm) not available'"
+      - name: Get EchoFlights logo
+        run: |
+          if [ ! -f assets/logo_white.png ]; then
+            curl -sfL -A "EchoFlightsNewsBot/0.1 (+https://echoflights.com)" -o assets/logo_white.png https://echoflights.com/images/logos/logo_white.png || rm -f assets/logo_white.png
+          fi
+      - name: Verify, write and design drafts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 draft.py
+      - name: Commit drafts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/stories data/drafts data/logs assets
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Draft $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin main
+          git push origin HEAD:main
