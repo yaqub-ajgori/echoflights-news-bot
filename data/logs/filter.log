@@ -171,3 +171,4 @@
 2026-10-20 19:30 pending=17 scored=17 kept=0 failed=0 errors=1
   gemma-4-31b-it: HTTP 500 after 1s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
 2026-10-20 20:00 pending=9 scored=9 kept=0 failed=0 errors=0
+2026-10-20 20:30 pending=17 scored=17 kept=2 failed=0 errors=0
