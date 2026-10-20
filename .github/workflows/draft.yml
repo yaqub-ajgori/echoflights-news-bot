@@ -25,7 +25,7 @@ jobs:
         run: |
           sudo apt-get update -qq || true
           sudo apt-get install -y -qq libfribidi0 || true
-          pip install --quiet pillow
+          python3 -m pip install --quiet --break-system-packages pillow
           python3 -c "from PIL import features; assert features.check('raqm'), 'Bangla text shaping (raqm) not available'"
       - name: Get EchoFlights logo
         run: |
