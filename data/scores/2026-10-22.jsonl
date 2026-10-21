@@ -154,3 +154,9 @@
 {"id": "af5ea8a3a36c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T22:30:51.652796+00:00"}
 {"id": "499fd96a977a", "score": 7, "topic": "airport", "event": "Attack at King Fahd International Airport Dammam", "model": "gemma-4-31b-it", "scored": "2026-10-21T22:42:53.323166+00:00"}
 {"id": "b224006b1f18", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T22:42:53.323166+00:00"}
+{"id": "d2d11dc4f544", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T23:00:45.494646+00:00"}
+{"id": "016cec32fa03", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T23:00:45.494646+00:00"}
+{"id": "5da09edea2dd", "score": 4, "topic": "travel_advisory", "event": "Sajek tourist travel ban and indefinite blockade", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T23:00:45.494646+00:00"}
+{"id": "e08487b98a6c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T23:00:45.494646+00:00"}
+{"id": "a873970d31b3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T23:00:45.494646+00:00"}
+{"id": "df58e704ff5f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T23:00:45.494646+00:00"}
