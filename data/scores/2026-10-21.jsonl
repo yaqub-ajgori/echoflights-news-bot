@@ -339,3 +339,43 @@
 {"id": "9fb2a6d81076", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T03:34:30.314268+00:00"}
 {"id": "384b9491f963", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T03:34:30.314268+00:00"}
 {"id": "c39b01167ca7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T03:34:30.314268+00:00"}
+{"id": "414767742be0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "76d331b0645a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "b2bb584f25dc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "1019592cc330", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "47677a5c331f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "3d6d57c33b26", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "d16fab69c4b4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "3c253f8640f9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "53ee1930b58e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "fcbf7acdad3c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "93cb371ba9b9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "2da868e72bb0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "6b556d91e22a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "a65f3e4a664d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "ff70e7d99a64", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:01:56.715729+00:00"}
+{"id": "1d61b70a82e3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "f5e5bc86c1b3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "16422304cf88", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "1d5c1354fbcd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "e5fad773b7e7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "0892a9698629", "score": 10, "topic": "expat_alert", "event": "Bangladeshi woman potentially executed in Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "cb313a055b66", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "a57b47553895", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "5d69b1343fc9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "ff5f75fe92fd", "score": 5, "topic": "other", "event": "Etihad Rail Dubai to Fujairah service details", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "8b57bd921db9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "429db9a2e551", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "b65f8bc1fcb4", "score": 4, "topic": "visa_rule", "event": "Trump administration cancels over 300,000 visas", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "e41d852657bb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "52965411d537", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:03:42.596479+00:00"}
+{"id": "1dcfeb596e5a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "d03c84be20cb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "d5ac7c4d0dc2", "score": 4, "topic": "other", "event": "US regulator certifies Boeing 737 MAX 10", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "d5280df5c680", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "0c9f4b483cb7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "b3ccbbd5a4a9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "71619854c031", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "86360f204e69", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "217c58241286", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
+{"id": "d5528f3d7b2f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T04:05:04.016693+00:00"}
