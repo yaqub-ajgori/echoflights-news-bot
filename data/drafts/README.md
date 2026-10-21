@@ -2,6 +2,37 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদিতে মৃত্যুদণ্ডপ্রাপ্ত বাংলাদেশিদের নিয়ে ভাইরাল ভিডিওটি বিভ্রান্তিকর
+
+⏳ will retry · 21 Oct 16:15 Dhaka · score 10 · expat_alert · sources: BD24Live, Dhaka Post, Khaleej Times, Prothom Alo
+
+<img src="2026-10-21/4cd96fb3e3/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবে মৃত্যুদণ্ড কার্যকর হওয়া দুই বাংলাদেশির নামে সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়া ভিডিওটি বিভ্রান্তিকর ও মিথ্যা বলে জানিয়েছে সৌদির দুই পবিত্র মসজিদ কর্তৃপক্ষ।
+
+মক্কার একটি মসজিদে অনৈতিক কাজের অভিযোগে গত ১৪ অক্টোবর নজরুল ইসলাম ও সিঁথি আক্তার নামে দুই বাংলাদেশির মৃত্যুদণ্ড কার্যকর করে সৌদি কর্তৃপক্ষ। এর পরপরই কাবার হাজরে আসওয়াদের কাছে এক ব্যক্তির এক নারীকে ধাক্কা দেওয়ার দৃশ্য ভাইরাল করে সেটিকে মৃত্যুদণ্ডপ্রাপ্তদের ভিডিও বলে দাবি করা হচ্ছিল। তবে দুই পবিত্র মসজিদ কর্তৃপক্ষ এক বার্তায় জানিয়েছে, এ দাবির কোনো সত্যতা নেই এবং এটি তাদের দণ্ডের প্রমাণ নয়।
+
+সূত্র: ঢাকা পোস্ট, Khaleej Times, বিডি২৪লাইভ
+#SaudiArabia #ExpatNews #EchoFlights #BangladeshisAbroad #FactCheck
+```
+
+**Blog:** [সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড ও কাবার ভাইরাল ভিডিও: যা জানাল কর্তৃপক্ষ](2026-10-21/4cd96fb3e3/blog.md) · slug `saudi-viral-video-bangladeshi-execution-clarification`
+
+**Sources:** [ঢাকা পোস্ট](https://www.dhakapost.com/international/491864) · [Khaleej Times](https://www.khaleejtimes.com/world/gulf/fact-check-viral-video-execution-2-bangladeshis-saudi-arabia-makkah-misleading) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810260)
+
+**Review notes (last attempt):**
+
+- caption: number 24 does not appear in any source
+- blog_body: number 24 does not appear in any source
+- caption: Unnatural phrasing: 'ভাইরাল করে সেটিকে' is awkward in standard journalistic Bangla.
+- blog_body: Stray/unrelated hashtag or section title concept: '#EchoFlights' inside the caption hashtags is completely unrelated to the news story about Saudi executions.
+- -: rewrite could not run: gemma-4-31b-it: HTTP 500 after 1s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}
+
+---
+
 ## রিয়াদে হামলায় নিহত বাংলাদেশি কর্মী শাহেদের মরদেহ দেশে আসছে শুক্রবার
 
 ✅ approved · 21 Oct 13:35 Dhaka · score 10 · expat_alert · sources: BD24Live, Dhaka Post
