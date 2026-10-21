@@ -2,6 +2,31 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদিতে ভিক্ষা করার অভিযোগে বাংলাদেশিসহ চারজন গ্রেপ্তার
+
+✅ approved · 22 Oct 05:31 Dhaka · score 9 · expat_alert · sources: BD24Live, Dhaka Post
+
+<img src="2026-10-22/be2de95405/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবের রাজধানী রিয়াদে ভিক্ষা করার অভিযোগে বাংলাদেশ ও ভারতের চার নাগরিককে গ্রেপ্তার করেছে দেশটির পুলিশ।
+
+সৌদি স্বরাষ্ট্র মন্ত্রণালয়ের ভিক্ষাবৃত্তি নিয়ন্ত্রণ কার্যক্রমের অংশ হিসেবে রিয়াদ অঞ্চল থেকে তাদের আটক করা হয়। আটক ব্যক্তিদের বিরুদ্ধে দেশটির আইন অনুযায়ী ব্যবস্থা নেওয়া হচ্ছে। একই সঙ্গে দান-খয়রাত কেবল সরকার অনুমোদিত মাধ্যমে প্রদানের জন্য সর্বসাধারণের প্রতি আহ্বান জানিয়েছে সৌদি কর্তৃপক্ষ।
+
+সূত্র: ঢাকা পোস্ট
+#SaudiArabia #Riyadh #ExpatNews #SaudiPolice #EchoFlights
+```
+
+**Blog:** [সৌদিতে ভিক্ষাবৃত্তির অভিযোগে বাংলাদেশিসহ চারজন গ্রেপ্তার](2026-10-22/be2de95405/blog.md) · slug `bangladeshis-arrested-begging-saudi-arabia-riyadh`
+
+**Sources:** [ঢাকা পোস্ট](https://www.dhakapost.com/international/491906) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810289)
+
+_Rewritten once after review (2 issues in first draft)._
+
+---
+
 ## কাবার ভাইরাল ভিডিওটি মৃত্যুদণ্ড কার্যকর হওয়া বাংলাদেশিদের নয়
 
 ❌ rejected · 22 Oct 04:01 Dhaka · score 10 · expat_alert · sources: BD24Live, Dhaka Post
