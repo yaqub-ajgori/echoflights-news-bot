@@ -2,24 +2,24 @@
 
 Newest first. Nothing here has been published.
 
-## কাবার ভাইরাল ভিডিওটি মৃত্যুদণ্ড কার্যকর হওয়া বাংলাদেশিদের নয়: সৌদি কর্তৃপক্ষ
+## কাবার ভাইরাল ভিডিওটি মৃত্যুদণ্ড কার্যকর হওয়া বাংলাদেশিদের নয়
 
-⏳ will retry · 22 Oct 03:32 Dhaka · score 10 · expat_alert · sources: BD24Live, Dhaka Post
+❌ rejected · 22 Oct 04:01 Dhaka · score 10 · expat_alert · sources: BD24Live, Dhaka Post
 
 <img src="2026-10-22/5292c158d6/card.png" width="420">
 
 **Facebook caption**
 
 ```
-পবিত্র কাবার হাজরে আসওয়াতের কাছে ধারণ করা ভাইরাল ভিডিওটি মৃত্যুদণ্ড কার্যকর হওয়া দুই বাংলাদেশির নয় বলে স্পষ্ট করেছে সৌদির দুই পবিত্র মসজিদ কর্তৃপক্ষ।
+সামাজিকমাধ্যমে কাবার কালো পাথরের কাছে ছড়িয়ে পড়া ভাইরাল ভিডিওটি মৃত্যুদণ্ড কার্যকর হওয়া দুই বাংলাদেশির নয় বলে নিশ্চিত করেছে সৌদির দুই পবিত্র মসজিদ কর্তৃপক্ষ।
 
-গত ১৪ অক্টোবর মক্কার একটি মসজিদে অনৈতিক কাজের অভিযোগে নজরুল ইসলাম ও সিঁথি আক্তার নামে দুই বাংলাদেশির মৃত্যুদণ্ড কার্যকর করা হয়। এরপর সামাজিক মাধ্যমে একটি ভিডিও ছড়িয়ে দাবি করা হয়, ভিডিওতে থাকা ব্যক্তিরাই ওই দণ্ডপ্রাপ্ত বাংলাদেশি। তবে কর্তৃপক্ষ জানিয়েছে, এই দাবি সম্পূর্ণ মিথ্যা এবং ভিডিওটি ওই ঘটনার প্রমাণ নয়।
+কর্তৃপক্ষ তাদের অফিশিয়াল এক্স অ্যাকাউন্টে জানায়, ভিডিওটি যে দাবি নিয়ে প্রচার করা হচ্ছে তা সম্পূর্ণ মিথ্যা এবং এটি মৃত্যুদণ্ড দেওয়ার কোনো প্রমাণ নয়। গত ১৪ অক্টোবর পবিত্র মক্কার একটি মসজিদে অনৈতিক কাজের অভিযোগে নজরুল ইসলাম ও সিঁথি আক্তার নামের দুই বাংলাদেশির মৃত্যুদণ্ড কার্যকর করে সৌদি আরব। তবে ওই ভাইরাল ভিডিওর সঙ্গে তাদের কোনো সম্পর্ক নেই।
 
-সূত্র: ঢাকা পোস্ট, বিডি২৪লাইভ
-#SaudiArabia #Bangladesh #ExpatNews #FactCheck #EchoFlights
+সূত্র: ঢাকা পোস্ট ও বিডি২৪লাইভ
+#SaudiArabia #ExpatNews #FactCheck #BangladeshisAbroad #EchoFlights
 ```
 
-**Blog:** [কাবার ভাইরাল ভিডিওটি মৃত্যুদণ্ড কার্যকর হওয়া বাংলাদেশিদের নয়: সৌদি কর্তৃপক্ষ](2026-10-22/5292c158d6/blog.md) · slug `viral-kaaba-video-not-executed-bangladeshis`
+**Blog:** [কাবার ভাইরাল ভিডিও মৃত্যুদণ্ড কার্যকর হওয়া বাংলাদেশিদের নয়: সৌদি কর্তৃপক্ষ](2026-10-22/5292c158d6/blog.md) · slug `viral-kaaba-video-not-executed-bangladeshis`
 
 **Sources:** [ঢাকা পোস্ট](https://www.dhakapost.com/international/491864) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810260)
 
@@ -27,7 +27,8 @@ Newest first. Nothing here has been published.
 
 - caption: number 24 does not appear in any source
 - blog_body: number 24 does not appear in any source
-- -: rewrite could not run: gemini-3.8-flash: HTTP 503 after 0s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in d
+
+_Rewritten once after review (5 issues in first draft)._
 
 ---
 
