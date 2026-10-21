@@ -308,3 +308,7 @@
   gemma-4-31b-it: HTTP 500 after 23s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
   gemma-4-31b-it: HTTP 500 after 0s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
 2026-10-21 18:30 pending=21 scored=21 kept=0 failed=0 errors=0
+2026-10-21 19:00 pending=20 scored=20 kept=0 failed=0 errors=3
+  gemma-4-31b-it: HTTP 500 after 0s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
+  gemma-4-31b-it: HTTP 500 after 0s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
+  gemma-4-31b-it: HTTP 500 after 0s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
