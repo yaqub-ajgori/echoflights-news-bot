@@ -1446,3 +1446,55 @@
 {"id": "27cc680ee332", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:11:40.581134+00:00"}
 {"id": "e4c9df3749ac", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:11:40.581134+00:00"}
 {"id": "20b645491c21", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:11:40.581134+00:00"}
+{"id": "438ac6597358", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "d9b1cbb49d7c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "5614da9642d2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "1342bc9482d2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "d67a7fb56d00", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "691cbe3637d6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "893fd72fc40b", "score": 4, "topic": "travel_advisory", "event": "Blockade in Sajek, tourists urged to leave", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "f1947914de0a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "3c4229bd1f2b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "920c5f5fb4ce", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "2f9c9cb1bfa6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "fbf3734df5e4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "e80edf5c9472", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "2574329d7639", "score": 9, "topic": "flight_disruption", "event": "US-Bangla free Riyadh to Jeddah transport", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "661603979495", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:31:39.108842+00:00"}
+{"id": "7119111b089c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "5e589ae6083c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "1893571c1429", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "1482694b7a08", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "3269927fcf33", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "f659c34e54df", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "d4c7c7ca82e5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "d8b8a15d8cb6", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "9d0dc537bac3", "score": 9, "topic": "flight_disruption", "event": "Biman flight operations resume to Dammam and Riyadh", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "8932b081b7b3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "813c15c49689", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "3bad1e4138ae", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "ba2e48cba206", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "bd3e6d3c568b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "92104039eb24", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:32:44.801518+00:00"}
+{"id": "7abfcf920514", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "318abaf7309b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "3c61925d9766", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "60c0e23b02a6", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "0442897c1588", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "b4bcc2873d8b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "60df1be84268", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "45cfd474f862", "score": 4, "topic": "labour_rule", "event": "Qiwa classifies establishments into 7 categories", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "9110154d62f8", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "b4f2b2053c6d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "f69a5edebc4e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "82804f538df1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "28c0107c3b05", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "c30049b0115d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "176fe7326026", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:33:54.529566+00:00"}
+{"id": "4aa97501b397", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:34:34.529708+00:00"}
+{"id": "25a36bb1f769", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:34:34.529708+00:00"}
+{"id": "cda2e800fcc8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:34:34.529708+00:00"}
+{"id": "fa056aa441cf", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:34:34.529708+00:00"}
+{"id": "e66d396c4a05", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:34:34.529708+00:00"}
+{"id": "26f8ae3d1ba4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:34:34.529708+00:00"}
+{"id": "7b1d0413aa28", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:34:34.529708+00:00"}
