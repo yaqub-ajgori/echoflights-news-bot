@@ -1397,3 +1397,52 @@
 {"id": "2db1a474b026", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T13:36:04.349962+00:00"}
 {"id": "daf1eaed996c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T13:36:04.349962+00:00"}
 {"id": "b3629270ccf0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T13:36:04.349962+00:00"}
+{"id": "f0b37a14b240", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "9a81b433ab89", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "7bdd720387ae", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "1d4868878fb3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "f4c321037b8f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "4de00a70cd54", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "5329be6a8d24", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "c1a762f1379a", "score": 9, "topic": "labour_rule", "event": "Malaysia proposes military deployment against undocumented foreign workers", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "a481b1b4c799", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "f55079313e6b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "19762362816a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "7642dfb509d7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "d57cd68116b3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "9dcea157100b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "802700d8f118", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:02:35.745798+00:00"}
+{"id": "7a5f0b5cd3f1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "af453ab049be", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "83ea2afa8e96", "score": 9, "topic": "flight_disruption", "event": "Biman flights to Riyadh and Dammam resuming", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "1f9e44325e16", "score": 9, "topic": "flight_disruption", "event": "Biman resumes flights to Dammam and Riyadh", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "7385af43ea8d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "a9e397f80024", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "6f32d4d80dd7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "29b5e63bb0f1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "5d8417a7ebde", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "8573ef9d8e80", "score": 10, "topic": "expat_alert", "event": "Execution of two Bangladeshis in Saudi Arabia", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "c1f577348461", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "a817cbb2978f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "9a110c164484", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "1d377235db2c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "9a2407c69026", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:04:23.413912+00:00"}
+{"id": "91129eb681b9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "06c2b878ab47", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "dc4fdf417bf1", "score": 9, "topic": "expat_alert", "event": "3 Bangladeshis return from Myanmar scam centers", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "ec585a44cdcb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "7f4a1e44c0b0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "c8ff099a9aaa", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "16f125951efa", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "e1073e244da8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "64b801dbeef6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "99138a270138", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "9468bd3d9fa8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "bc126efd478d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "13540b437527", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "5127da1baa91", "score": 10, "topic": "flight_disruption", "event": "134 flights cancelled in Riyadh-Dammam", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "2be05f052ee2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T14:07:43.457165+00:00"}
+{"id": "9d6cdbe65ff9", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:11:40.581134+00:00"}
+{"id": "27cc680ee332", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:11:40.581134+00:00"}
+{"id": "e4c9df3749ac", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:11:40.581134+00:00"}
+{"id": "20b645491c21", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T14:11:40.581134+00:00"}
