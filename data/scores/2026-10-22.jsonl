@@ -152,3 +152,5 @@
 {"id": "f36a54bed2b2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T22:30:51.652796+00:00"}
 {"id": "abff8004f5d5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T22:30:51.652796+00:00"}
 {"id": "af5ea8a3a36c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T22:30:51.652796+00:00"}
+{"id": "499fd96a977a", "score": 7, "topic": "airport", "event": "Attack at King Fahd International Airport Dammam", "model": "gemma-4-31b-it", "scored": "2026-10-21T22:42:53.323166+00:00"}
+{"id": "b224006b1f18", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T22:42:53.323166+00:00"}
