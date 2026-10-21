@@ -92,3 +92,11 @@
 {"id": "6f1e17579c14", "score": 9, "topic": "labour_rule", "event": "Kuwait cracks down on companies withholding salaries", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T20:01:07.014418+00:00"}
 {"id": "2f754c86bc60", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T20:01:07.014418+00:00"}
 {"id": "e5404fb00e19", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T20:01:07.014418+00:00"}
+{"id": "2c0136aaed1b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T20:31:47.963146+00:00"}
+{"id": "413932993554", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T20:31:47.963146+00:00"}
+{"id": "e9fe8724a8e7", "score": 5, "topic": "travel_advisory", "event": "US embassy staff leave Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-21T20:31:47.963146+00:00"}
+{"id": "6fbecd8890eb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T20:31:47.963146+00:00"}
+{"id": "18116c64dc18", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T20:31:47.963146+00:00"}
+{"id": "a701180bdf04", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T20:31:47.963146+00:00"}
+{"id": "3d8fad75832a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T20:31:47.963146+00:00"}
+{"id": "1049038ce1fb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T20:31:47.963146+00:00"}
