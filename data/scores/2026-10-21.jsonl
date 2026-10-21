@@ -595,3 +595,44 @@
 {"id": "3b72d41735f5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T06:33:11.478639+00:00"}
 {"id": "73c1e8956e06", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T06:33:11.478639+00:00"}
 {"id": "0389a285fac5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T06:33:11.478639+00:00"}
+{"id": "9ea8f49f3fa1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "7da165ec49c5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "62dabaa574f0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "dd53779d8347", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "bcb3d670d026", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "f039dc17d6ab", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "5672e15fc170", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "897aeca4e7ef", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "6c0a7199956d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "1efe313648c9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "f6a914c50e96", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "4d46c79aff00", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "7c3a906b26cf", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "9b610b84ac88", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "f0e651fd181d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:01:09.312710+00:00"}
+{"id": "8a06a891f48d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "3006efed17d6", "score": 4, "topic": "expat_alert", "event": "Malaysia penalty for misusing MyKad by foreigners", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "aa27185ae803", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "b374263d46d5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "f1e7859165b4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "683a14571e13", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "7334d7c87667", "score": 5, "topic": "expat_alert", "event": "Dubai rental contract termination rules and penalties", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "573dfecc6a63", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "b94634e55e37", "score": 10, "topic": "expat_alert", "event": "Execution of two Bangladeshis in Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "76f5ec0119f4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "4ad2a618d579", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "b3dd6ea01d37", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "57008c24bdbf", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "9bcd58ca35e7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "b137622e7020", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:06.042472+00:00"}
+{"id": "a667a8408dfc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "165502160c85", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "0bf170e10918", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "c05dda363ca7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "be1e734bcac5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "8e779f2906fd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "44e66b1c206b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "799df6039c57", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "fd12c337cf1a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "048c49cf3341", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
+{"id": "5c2b512980fe", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T07:02:40.918607+00:00"}
