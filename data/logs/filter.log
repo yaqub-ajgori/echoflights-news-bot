@@ -186,3 +186,7 @@
 2026-10-21 01:00 pending=11 scored=11 kept=0 failed=0 errors=0
 2026-10-21 01:30 pending=18 scored=18 kept=0 failed=0 errors=1
   gemma-4-31b-it: HTTP 500 after 1s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
+2026-10-21 02:00 pending=26 scored=26 kept=1 failed=0 errors=3
+  gemma-4-31b-it: HTTP 500 after 52s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
+  gemma-4-31b-it: HTTP 500 after 1s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
+  gemma-4-31b-it: HTTP 503 after 39s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
