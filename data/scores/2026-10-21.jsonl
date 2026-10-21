@@ -1549,3 +1549,33 @@
 {"id": "1e4103c28844", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:10:01.687942+00:00"}
 {"id": "275871be7506", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:10:01.687942+00:00"}
 {"id": "42f05e8c6bfc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:10:01.687942+00:00"}
+{"id": "38d24cce4ca4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "6b378242cad2", "score": 10, "topic": "flight_disruption", "event": "134 flights from Dhaka cancelled or suspended", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "2d7e8bcdcec3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "01f715dca481", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "067c575bcfc5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "a74ac4375462", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "19f7957a5069", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "89feebe3449f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "6e14fbb7bc33", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "d57b27cfd0cd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "c0ca9f732ae1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "4da62b67d2c6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "74427e5fdab0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "34d04aa6933a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "7281195de4f3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:31:24.390007+00:00"}
+{"id": "ffd16f0bb989", "score": 9, "topic": "flight_disruption", "event": "Riyadh airport closed due to Houthi attacks", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "9e1178488d6e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "000ae41f8c21", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "6c0b270b708b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "7b6a28f4055a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "74249eec0332", "score": 5, "topic": "expat_alert", "event": "Concerns over protection of Bangladeshi expats in KSA", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "42f10db1fc3b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "a5f31a1bfff7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "3bcdd54febfc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "ff0f4875e5f2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "250b8b45c979", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "161626cea27f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "be8f86ba518b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "b260424f4e78", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
+{"id": "0d4c500bb4bd", "score": 9, "topic": "labour_rule", "event": "Malaysia urges priority for local workers over foreigners", "model": "gemma-4-31b-it", "scored": "2026-10-21T15:33:05.054191+00:00"}
