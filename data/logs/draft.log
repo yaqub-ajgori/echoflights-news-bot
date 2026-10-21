@@ -388,3 +388,7 @@
 2026-10-21 09:35:58 40 candidates, 4 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 6, 'gemini-3.6-flash': 2}
 2026-10-21 09:35:58 calling gemini-3.5-flash-lite
 2026-10-21 09:36:00 done: candidates=40 groups={'already_drafted': 4, 'single_source': 6} drafts=0 errors=0
+2026-10-21 10:05:15 draft run started
+2026-10-21 10:05:15 40 candidates, 4 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 6, 'gemini-3.6-flash': 2}
+2026-10-21 10:05:15 calling gemini-3.5-flash-lite
+2026-10-21 10:05:18 done: candidates=40 groups={'already_drafted': 4, 'single_source': 7} drafts=0 errors=0
