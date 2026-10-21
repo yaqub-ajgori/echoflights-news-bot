@@ -1659,3 +1659,40 @@
 {"id": "cdf44ff6d2dd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T16:32:55.898068+00:00"}
 {"id": "9e93f77e4611", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T16:32:55.898068+00:00"}
 {"id": "c36de95b4fec", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T16:34:44.082790+00:00"}
+{"id": "62e3db2394d0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "64689e6ada18", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "d43a3ce6b454", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "b16d7769292d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "f0ed4e5e3f40", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "abcaa875c280", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "7220bec73730", "score": 6, "topic": "airport", "event": "Riyadh international airport partially reopening", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "1e3dff62d624", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "2de454cb591c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "c45ae59e8443", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "d4ae4fba65c0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "4e804acd4074", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "ce73340f18c7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "8056ff11c671", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "87a39c27c406", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:01:59.419709+00:00"}
+{"id": "423282cfa229", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "a5c53e265078", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "d591b71aebc6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "a5b06c56074d", "score": 10, "topic": "expat_alert", "event": "Two Bangladeshis executed in Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "951a1e1b768e", "score": 9, "topic": "expat_alert", "event": "Bangladeshis executed in Saudi, fighting in Russia", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "4a70ebacd689", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "7cfd8a33294f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "8ba345f67e59", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "08973b742aca", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "747f0fd17b42", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "c56279c76cd1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "6ae5f41f782f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "9104b4492f87", "score": 5, "topic": "expat_alert", "event": "Bangladeshi businessmen looted in France", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "9399d2bf243b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "2356ab4dd96c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-21T17:03:01.809323+00:00"}
+{"id": "ebe000b319dc", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T17:03:46.743905+00:00"}
+{"id": "c1cbb22875f2", "score": 9, "topic": "flight_disruption", "event": "Biman resumes flights to Riyadh and Dammam", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T17:03:46.743905+00:00"}
+{"id": "9073ea9ebc14", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T17:03:46.743905+00:00"}
+{"id": "792d34bdf8a2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T17:03:46.743905+00:00"}
+{"id": "281d9998b1ed", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T17:03:46.743905+00:00"}
+{"id": "db461a4b9e94", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T17:03:46.743905+00:00"}
+{"id": "b94798930233", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-21T17:03:46.743905+00:00"}
