@@ -363,3 +363,42 @@
 {"id": "0f06a1d66e18", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:05:31.863792+00:00"}
 {"id": "cd6f4ba81bb1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:05:31.863792+00:00"}
 {"id": "38ead39ade59", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:05:31.863792+00:00"}
+{"id": "990382445220", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "b319dcd71bd4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "67490e95b414", "score": 8, "topic": "accident", "event": "Attack at Dammam airport", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "58bb91c0eed9", "score": 8, "topic": "accident", "event": "Attack at Dammam airport", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "e03f29957f42", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "1140401bbf48", "score": 9, "topic": "other", "event": "Biman resumes Dhaka-Dammam flights", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "913956acad32", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "bcdf55398f57", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "6c808d75b92b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "f0554a67ddba", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "eea27ac95279", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "3057bb5422c2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "f9abca07f187", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "6fef52052234", "score": 5, "topic": "travel_advisory", "event": "US staff ordered to leave Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "b3e375cfc61d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:00.294343+00:00"}
+{"id": "d8b782a42a38", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "30ba04540e81", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "5051e84c40eb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "d916362a8763", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "9f540f5bbcac", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "40a4531dab3a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "a16a19873d3c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "20ae6e9477b0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "d4989eb861e5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "ec8b5460993a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "9af9cc62f607", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "c697df520755", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "29e2abd1bb99", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "24d972f88418", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "5e3d5e7ad39e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:31:33.044781+00:00"}
+{"id": "b4a767c6aecd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "5b566a4353b1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "4802dee6f8e9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "aeca30019d45", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "31f87eac9bb0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "a88ee7c579fb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "03667ab24f41", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "02b737474548", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "77844630636b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
