@@ -1351,3 +1351,52 @@
 {"id": "c8ebbbd83299", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:32:52.256631+00:00"}
 {"id": "e32750b854c7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:32:52.256631+00:00"}
 {"id": "f6dd9eaa8e23", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:32:52.256631+00:00"}
+{"id": "a87846a9f625", "score": 10, "topic": "expat_alert", "event": "Bangladeshis injured in Dammam airport attack", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "9e1375b5fa2a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "3f8a40d3492c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "461c8eeea905", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "3412f866086f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "92d285bead5c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "192a22cb043b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "1f6fdd7b9756", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "cb56d8cce015", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "8126f0adbd1a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "d6968ffd1c35", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "278abbe3f48c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "fa6a525b953a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "fef63cd3692b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "89733e67820a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:01:27.505738+00:00"}
+{"id": "7f6887202c92", "score": 5, "topic": "other", "event": "Hajj agency fined for embezzling Qurbani money", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "49791e9db107", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "b098659a9c1b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "5e33f8605585", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "0cf66443f342", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "8e960493e089", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "b41945f9487e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "80580ae32e2e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "37526662bffd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "711c1794c18b", "score": 4, "topic": "travel_advisory", "event": "Tourists face disruptions in Sajek valley", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "c2e456146b8e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "d1de5d118534", "score": 4, "topic": "other", "event": "Japan overhauls tax-free shopping for visitors", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "0cea080f8631", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "fd2bae141237", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "1ebc8919d20b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T14:02:42.941612+00:00"}
+{"id": "5464710b9e3f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "88c6d3b25f26", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "72a991db6b5d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "77fc22f83d22", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "62cf87daef26", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "96d2a1691b63", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "4ab05aebc4f7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "69ad4df8fbc2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "2629d4754cbe", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "79b03bdcb668", "score": 9, "topic": "expat_alert", "event": "Body of Bangladeshi worker killed in Houthi attack arriving", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "7223f09c7cff", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "3b7f3c6d7c66", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "5c29fdfe08d2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "3ba7670319b0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "132273e5fef1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:04:44.988014+00:00"}
+{"id": "0eca83eb7588", "score": 9, "topic": "airport", "event": "Houthi attack on King Fahd International Airport", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:05:16.938185+00:00"}
+{"id": "d9938d071866", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:05:16.938185+00:00"}
+{"id": "82f615a30bb5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:05:16.938185+00:00"}
+{"id": "e3d27463a30e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T14:05:16.938185+00:00"}
