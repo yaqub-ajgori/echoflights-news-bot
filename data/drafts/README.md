@@ -2,6 +2,32 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদি আরবে হামলায় নিহত ওমরাহযাত্রী নাসরুল্লাহর পরিবারের পাশে দাঁড়ালেন ধর্মমন্ত্রী
+
+✅ approved · 22 Oct 13:06 Dhaka · score 10 · expat_alert · sources: Dhaka Post, Prothom Alo
+
+<img src="2026-10-22/6639318cda/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবের রিয়াদে বিমানবন্দরে হামলায় নিহত বাংলাদেশি ওমরাহযাত্রী মুফতি মো. নাসরুল্লাহ বদরপুরির পরিবারের দায়িত্ব নিয়েছেন ধর্ম বিষয়ক মন্ত্রী কাজী শাহ মোফাজ্জাল হোসাইন (কায়কোবাদ)।
+
+গত ১০ অক্টোবর রিয়াদের আন্তর্জাতিক বিমানবন্দরে ৪৫ সদস্যের এক ওমরাহ কাফেলা হামলার শিকার হয়। এতে দলনেতা মুফতি নাসরুল্লাহ (৪৫) নিহত এবং বেশ কয়েকজন আহত হন। ধর্মমন্ত্রীর উদ্যোগে ক্ষতিগ্রস্ত পরিবারটিকে ৫০ হাজার টাকা আর্থিক সহায়তা দেওয়া হয়েছে। পাশাপাশি দাফন, আবাসন ও সন্তানদের শিক্ষার দায়িত্ব নেওয়ার আশ্বাস দেওয়া হয়েছে। কাফেলার ৩৩ জন সদস্য মঙ্গলবার রাতে দেশে ফিরে এসেছেন।
+
+সূত্র: ঢাকা পোস্ট ও প্রথম আলো
+
+#EchoFlights #Riyadh #SaudiArabia #Bangladesh #OmrahPilgrim #ExpatNews
+```
+
+**Blog:** [সৌদি আরবে হামলায় নিহত ওমরাহযাত্রীর পরিবারের পাশে ধর্মমন্ত্রী, দেশে ফিরেছেন ৩৩ যাত্রী](2026-10-22/6639318cda/blog.md) · slug `minister-supports-family-of-omrah-pilgrim-killed-in-riyadh`
+
+**Sources:** [ঢাকা পোস্ট](https://www.dhakapost.com/national/492087) · [প্রথম আলো](https://www.prothomalo.com/bangladesh/rfkk5ieb3r)
+
+_Rewritten once after review (1 issues in first draft)._
+
+---
+
 ## সৌদি আরবের রিয়াদসহ বিভিন্ন রুটে বিমানের ফ্লাইট চালুর সিদ্ধান্ত
 
 ✅ approved · 22 Oct 11:34 Dhaka · score 10 · flight_disruption · sources: BD24Live, Bangladesh Diplomat
