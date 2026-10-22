@@ -700,3 +700,7 @@
 2026-10-22 05:35:20 saved approved draft e2b4e2fa9a
 2026-10-22 05:35:20 done: candidates=40 groups={'single_source': 9, 'already_drafted': 5, 'verified': 2} drafts=1 errors=1
 2026-10-22 05:35:20   error: gemma-4-31b-it: HTTP 500 after 1s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
+2026-10-22 06:03:28 draft run started
+2026-10-22 06:03:28 40 candidates, 8 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 18, 'gemini-3.6-flash': 18}
+2026-10-22 06:03:28 calling gemini-3.5-flash-lite
+2026-10-22 06:03:32 done: candidates=40 groups={'verified': 2, 'already_drafted': 6, 'single_source': 10} drafts=0 errors=0
