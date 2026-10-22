@@ -2,6 +2,31 @@
 
 Newest first. Nothing here has been published.
 
+## চাকরির প্রলোভনে রাশিয়ায় গিয়ে যুদ্ধে ৩ বছরে অন্তত ৫৪ বাংলাদেশির মৃত্যু
+
+✅ approved · 22 Oct 18:06 Dhaka · score 10 · expat_alert · sources: BD24Live, Prothom Alo
+
+<img src="2026-10-22/1c46957cfe/card.png" width="420">
+
+**Facebook caption**
+
+```
+উন্নত চাকরির প্রলোভনে রাশিয়ায় গিয়ে ইউক্রেন যুদ্ধে জড়িয়ে গত তিন বছরে অন্তত ৫৪ জন বাংলাদেশি কর্মীর মৃত্যুর তথ্য পাওয়া গেছে।
+
+ভুক্তভোগীদের পরিবার ও ফেরত আসা ব্যক্তিদের বরাতে জানা যায়, বিভিন্ন এজেন্সির মাধ্যমে কাজের কথা বলে কর্মীদের রাশিয়ায় পাঠানো হয়। সেখানে সামরিক প্রশিক্ষণ শেষে তাঁদের যুদ্ধক্ষেত্রে নামানো হচ্ছে। সম্মুখসারিতে নিখোঁজদের মৃত গণ্য করা হলেও মরদেহ হস্তান্তর করছে না রুশ কর্তৃপক্ষ।
+
+সূত্র: প্রথম আলো, বিডি টোয়েন্টিফোর লাইভ
+#RussiaWar #BangladeshiWorkers #ExpatNews #BangladeshEmbassy #EchoFlights
+```
+
+**Blog:** [চাকরির প্রলোভনে রাশিয়ায় গিয়ে যুদ্ধক্ষেত্রে বাংলাদেশিরা, ৩ বছরে বহু মৃত্যুর তথ্য](2026-10-22/1c46957cfe/blog.md) · slug `bangladeshi-workers-lured-to-russia-war`
+
+**Sources:** [প্রথম আলো](https://www.prothomalo.com/bangladesh/mkf2is07uv) · [প্রথম আলো](https://en.prothomalo.com/bangladesh/pqmoumnzr2) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810438)
+
+_Rewritten once after review (2 issues in first draft)._
+
+---
+
 ## দাম্মাম বিমানবন্দরে হামলার পর পুনরায় বিমান চলাচল স্বাভাবিক
 
 ✅ approved · 22 Oct 14:06 Dhaka · score 10 · airport · sources: Bangladesh Diplomat, Gulf News
