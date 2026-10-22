@@ -177,3 +177,16 @@
 {"id": "c7ddb8bb2866", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:01:16.936301+00:00"}
 {"id": "daaf672e3da0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:01:16.936301+00:00"}
 {"id": "81b8242d8421", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:01:16.936301+00:00"}
+{"id": "0612fa573f2c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "266b75fd2bc3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "b91c0d1d15be", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "7d6f36ede224", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "bf23b9002f99", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "396f9420bc17", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "8399b596ddde", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "124c2161b1c9", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "b6fe6a29caf9", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "e2116e6f5bc4", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "0b43304021ec", "score": 9, "topic": "airport", "event": "Houthi attacks target Aden and Al Mukalla airports", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "8c24347aeffa", "score": 9, "topic": "airport", "event": "Attack on Saudi Arabia's Dammam airport kills one", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "3873d8e7c2d1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
