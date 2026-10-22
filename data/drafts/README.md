@@ -2,6 +2,38 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদি আরবে বাংলাদেশি অভিবাসী কর্মীদের সুরক্ষার বিষয়টি নতুন করে আলোচনায়
+
+❌ rejected · 22 Oct 10:05 Dhaka · score 10 · expat_alert · sources: BBC Bangla, Prothom Alo
+
+<img src="2026-10-22/48cd1c7e08/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবে বাংলাদেশি অভিবাসী কর্মীদের সুরক্ষার বিষয়টি নতুন করে আলোচনায় এসেছে। সম্প্রতি এক নারীসহ দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর করা এবং নির্যাতনের শিকার হয়ে নারী শ্রমিকদের দেশে ফেরার ঘটনায় উদ্বেগ প্রকাশ করছেন সংশ্লিষ্টরা।
+
+সরকারি হিসাব মতে, ২০২৪ সালের জানুয়ারি থেকে চলতি বছরের অক্টোবরের মাঝামাঝি পর্যন্ত বিদেশে যাওয়া ১ লাখ ৭২ হাজারের বেশি নারী শ্রমিকের মধ্যে ১ লাখ ২০ হাজারই গেছেন সৌদি আরবে। চলতি বছরের সেপ্টেম্বর পর্যন্ত ফিরে আসা দেড় হাজারের বেশি নারী কর্মীর মধ্যে প্রায় এক হাজারই ফিরেছেন সৌদি থেকে। আকস্মিক সংকট ও নিরাপত্তাহীনতায় প্রবাসীদের সুরক্ষায় কার্যকর রাষ্ট্রীয় পদক্ষেপ ও ডিজিটাল ডেটাবেইস তৈরির তাগিদ দিচ্ছেন সংশ্লিষ্টরা।
+
+সৌদি আরব ভ্রমণ ও কাজের বিষয়ে কোনো প্রয়োজনে দূতাবাস বা সরকারি চ্যানেলে যোগাযোগের পরামর্শ দেওয়া হচ্ছে।
+
+সূত্র: বিবিসি বাংলা, প্রথম আলো
+
+#EchoFlights #SaudiArabia #ExpatNews #BangladeshiWorkers #MigrantWorkers
+```
+
+**Blog:** [সৌদি আরবে বাংলাদেশি অভিবাসী ও নারী শ্রমিকদের সুরক্ষা নিশ্চিতের তাগিদ](2026-10-22/48cd1c7e08/blog.md) · slug `bangladeshi-workers-safety-risks-saudi-arabia`
+
+**Sources:** [বিবিসি বাংলা](https://www.bbc.com/bengali/articles/cje36xln66xko?at_medium=RSS&at_campaign=rss) · [প্রথম আলো](https://www.prothomalo.com/opinion/column/6irjann7r1)
+
+**Review notes (last attempt):**
+
+- caption: The draft mixes two different stories. It links the execution of citizens and torture of female workers (from Source 1) to the demand for a 'digital database' (from Source 2). However, Source 2 suggests the digital database specifically to manage logistical and security crises like flight cancellations and airport attacks, not as a solution for legal executions or workplace torture.
+
+_Rewritten once after review (1 issues in first draft)._
+
+---
+
 ## চাকরির প্রলোভনে রাশিয়ায় গিয়ে যুদ্ধে জড়িয়ে পড়া বাংলাদেশিদের প্রাণহানি
 
 ⏳ will retry · 22 Oct 09:34 Dhaka · score 10 · expat_alert · sources: BBC Bangla, Prothom Alo
