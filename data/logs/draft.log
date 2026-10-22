@@ -899,3 +899,7 @@
 2026-10-22 17:36:57 40 candidates, 11 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 9, 'gemini-3.6-flash': 5}
 2026-10-22 17:36:57 calling gemini-3.5-flash-lite
 2026-10-22 17:37:04 done: candidates=40 groups={'already_drafted': 6, 'single_source': 5} drafts=0 errors=0
+2026-10-22 18:01:18 draft run started
+2026-10-22 18:01:18 40 candidates, 11 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 9, 'gemini-3.6-flash': 5}
+2026-10-22 18:01:18 calling gemini-3.5-flash-lite
+2026-10-22 18:01:23 done: candidates=40 groups={'already_drafted': 7, 'single_source': 6} drafts=0 errors=0
