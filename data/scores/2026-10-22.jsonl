@@ -190,3 +190,10 @@
 {"id": "0b43304021ec", "score": 9, "topic": "airport", "event": "Houthi attacks target Aden and Al Mukalla airports", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
 {"id": "8c24347aeffa", "score": 9, "topic": "airport", "event": "Attack on Saudi Arabia's Dammam airport kills one", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
 {"id": "3873d8e7c2d1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T00:30:41.629918+00:00"}
+{"id": "e5c9201e474e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T01:02:24.202261+00:00"}
+{"id": "ee25ab653b59", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T01:02:24.202261+00:00"}
+{"id": "a64cf39138b8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T01:02:24.202261+00:00"}
+{"id": "eab464ce8e54", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T01:02:24.202261+00:00"}
+{"id": "617b96a8e725", "score": 8, "topic": "airport", "event": "Attack on Saudi Arabia's King Fahd airport", "model": "gemma-4-31b-it", "scored": "2026-10-22T01:02:24.202261+00:00"}
+{"id": "64eff33fced9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T01:02:24.202261+00:00"}
+{"id": "8cec5a38bdf2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T01:02:24.202261+00:00"}
