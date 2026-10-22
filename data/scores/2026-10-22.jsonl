@@ -890,3 +890,52 @@
 {"id": "8cb6cb2f63d7", "score": 4, "topic": "other", "event": "Oil prices rise after attack on Saudi oilfield", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T09:34:58.177105+00:00"}
 {"id": "9cb4321702e5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T09:34:58.177105+00:00"}
 {"id": "5511dfc41426", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T09:34:58.177105+00:00"}
+{"id": "060e764ce8e3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "237e0f665e37", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "b9d1c5da2657", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "b2b2652d70a3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "ffbd0f5fc972", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "c3d1d80e9e8d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "b9d183a596f0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "0833222d7b6f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "8056176735f9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "84367f18a0f8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "6994f18d59c5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "5911e248f74e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "88f6087c391a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "8ceb176cc5bf", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "de43f49fb063", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:01:09.892621+00:00"}
+{"id": "f764b8be8edd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "09c46aecab91", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "dc5b324c5976", "score": 8, "topic": "accident", "event": "Attack on King Fahd International Airport Dammam", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "ac270d3a0f36", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "72764d055628", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "513031ad097a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "5d000e3062c7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "a8c0174ac0f4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "2aeb685a15e0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "7385d10e4fc1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "e8d8ad3bb3f4", "score": 5, "topic": "labour_rule", "event": "Kuwait traffic campaign for delivery bikes", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "9d1faa20e2c3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "ca33b1593bf7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "15d768a66d62", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "51b6ea6d7e78", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:02:12.535617+00:00"}
+{"id": "24d69464d052", "score": 4, "topic": "other", "event": "SalamAir launches flights to Erbil and Damascus", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "0c2d94747419", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "ca059ad3bd07", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "f19c71c3abec", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "f335ed3e3443", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "bbef8db79776", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "462bea107c7a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "ba6f27dcaf1e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "380e231d081f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "08e726b6d75a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "bd7183c2dd81", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "db778195e9dd", "score": 6, "topic": "other", "event": "Iran attacks seven ships in Persian Gulf", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "924d9206c062", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "e775815f2f3e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "884abb1cc344", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:03:46.386503+00:00"}
+{"id": "2a4d24142292", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:04:12.089463+00:00"}
+{"id": "dee1eebcbd7e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:04:12.089463+00:00"}
+{"id": "bd87d9ef0264", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:04:12.089463+00:00"}
+{"id": "5c14464b40be", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T10:04:12.089463+00:00"}
