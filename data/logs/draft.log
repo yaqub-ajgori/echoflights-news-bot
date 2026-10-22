@@ -687,3 +687,16 @@
 2026-10-22 05:03:11 40 candidates, 7 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 18, 'gemini-3.6-flash': 17}
 2026-10-22 05:03:11 calling gemini-3.5-flash-lite
 2026-10-22 05:03:14 done: candidates=40 groups={'single_source': 8, 'already_drafted': 5} drafts=0 errors=0
+2026-10-22 05:34:05 draft run started
+2026-10-22 05:34:05 40 candidates, 7 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 18, 'gemini-3.6-flash': 17}
+2026-10-22 05:34:05 calling gemini-3.5-flash-lite
+2026-10-22 05:34:08 writing story e2b4e2fa9a: Biman Bangladesh resumes flights to Riyadh
+2026-10-22 05:34:08 fetching Bangladesh Diplomat: https://bangladeshdiplomat.com/43768/latest/raw38091/
+2026-10-22 05:34:10 fetching বিডি২৪লাইভ: https://www.bd24live.com/bangla/810385
+2026-10-22 05:34:11 calling gemini-3.6-flash
+2026-10-22 05:34:26 calling gemma-4-31b-it
+2026-10-22 05:34:47 calling gemma-4-31b-it
+2026-10-22 05:35:19 attempt 1: passed with 0 issues
+2026-10-22 05:35:20 saved approved draft e2b4e2fa9a
+2026-10-22 05:35:20 done: candidates=40 groups={'single_source': 9, 'already_drafted': 5, 'verified': 2} drafts=1 errors=1
+2026-10-22 05:35:20   error: gemma-4-31b-it: HTTP 500 after 1s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
