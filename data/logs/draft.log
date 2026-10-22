@@ -732,3 +732,29 @@
 2026-10-22 07:32:17 40 candidates, 9 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 2, 'gemini-3.6-flash': 1}
 2026-10-22 07:32:17 calling gemini-3.5-flash-lite
 2026-10-22 07:32:19 done: candidates=40 groups={'single_source': 5, 'already_drafted': 6} drafts=0 errors=0
+2026-10-22 08:06:59 draft run started
+2026-10-22 08:06:59 40 candidates, 9 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 2, 'gemini-3.6-flash': 1}
+2026-10-22 08:06:59 calling gemini-3.5-flash-lite
+2026-10-22 08:07:02 writing story d563ee2a8d: Regional security tensions and flight disruptions affecting Saudi Arabia
+2026-10-22 08:07:02 fetching Gulf News: https://gulfnews.com/business/aviation/uae-flight-status-oct-21-cancellations-delays-and-latest-saud
+2026-10-22 08:07:02 fetching Khaleej Times: https://www.khaleejtimes.com/world/gulf/saudi-arabia-attack-oil-field-aramco-king-fahd-airport-resid
+2026-10-22 08:07:02 calling gemini-3.8-flash
+2026-10-22 08:07:23 calling gemini-3.6-flash
+2026-10-22 08:07:44 writing story 167e3a2c35: Attack and operations resumption at Saudi Arabia airport
+2026-10-22 08:07:44 fetching Bangladesh Diplomat: https://bangladeshdiplomat.com/43895/latest/raw38409/
+2026-10-22 08:07:45 fetching Gulf News: https://gulfnews.com/world/gulf/saudi/saudi-arabias-dammam-airport-resumes-operations-after-attack-k
+2026-10-22 08:07:46 calling gemini-3.8-flash
+2026-10-22 08:08:06 calling gemini-3.6-flash
+2026-10-22 08:08:23 calling gemma-4-31b-it
+2026-10-22 08:10:12 attempt 1: failed with 3 issues
+2026-10-22 08:10:12 calling gemini-3.8-flash
+2026-10-22 08:10:41 calling gemma-4-31b-it
+2026-10-22 08:11:23 calling gemma-4-31b-it
+2026-10-22 08:12:17 attempt 2: passed with 0 issues
+2026-10-22 08:12:17 saved approved draft 167e3a2c35
+2026-10-22 08:12:17 done: candidates=40 groups={'single_source': 5, 'already_drafted': 6, 'verified': 2} drafts=1 errors=5
+2026-10-22 08:12:17   error: gemini-3.8-flash: HTTP 503 after 0s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-22 08:12:17   error: gemini-3.6-flash: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-22 08:12:17   error: write failed for d563ee2a8d: gemini-3.8-flash: HTTP 503 after 0s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'; gemini-3.6-flash: HTTP 50
+2026-10-22 08:12:17   error: gemini-3.8-flash: HTTP 503 after 0s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-22 08:12:17   error: gemma-4-31b-it: HTTP 503 after 22s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'

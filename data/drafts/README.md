@@ -2,6 +2,32 @@
 
 Newest first. Nothing here has been published.
 
+## দাম্মাম বিমানবন্দরে হামলার পর পুনরায় বিমান চলাচল স্বাভাবিক
+
+✅ approved · 22 Oct 14:06 Dhaka · score 10 · airport · sources: Bangladesh Diplomat, Gulf News
+
+<img src="2026-10-22/167e3a2c35/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবের দাম্মাম শহরের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হামলার পর পুনরায় বিমান চলাচল স্বাভাবিক হয়েছে। সৌদি আরবের বেসামরিক বিমান চলাচল কর্তৃপক্ষ (GACA) নিশ্চিত করেছে যে বৃহস্পতিবার বিমানবন্দরটির ফ্লাইট পরিচালনা স্বাভাবিক অবস্থায় ফিরে এসেছে।
+
+গত বুধবার সন্ধ্যায় সংঘটিত এই হামলায় দুইজন নিহত এবং বাংলাদেশিসহ অন্তত আটজন আহত হন। আহতদের মধ্যে একজন সৌদি নাগরিক এবং বাংলাদেশ, ভারত, ইয়েমেন ও নেপালের সাতজন প্রবাসী রয়েছেন। GACA সূত্রে জানা গেছে, নিহতদের মধ্যে একজন সৌদি নাগরিক এবং একজন ভারতীয় নাগরিক। নিরাপত্তা সংস্থাগুলো ক্ষয়ক্ষতি নিরূপণ ও যাত্রীদের সুরক্ষা নিশ্চিতে কাজ করছে।
+
+সূত্র: বাংলাদেশ ডিপ্লোম্যাট ও গালফ নিউজ
+
+#SaudiArabia #DammamAirport #GACA #BangladeshiExpat #EchoFlights
+```
+
+**Blog:** [সৌদি আরবের দাম্মাম বিমানবন্দরে হামলার পর বিমান চলাচল শুরু, আহতদের মধ্যে বাংলাদেশি](2026-10-22/167e3a2c35/blog.md) · slug `saudi-arabia-dammam-airport-attack-resumes-operations`
+
+**Sources:** [Bangladesh Diplomat](https://bangladeshdiplomat.com/43895/latest/raw38409/) · [Gulf News](https://gulfnews.com/world/gulf/saudi/saudi-arabias-dammam-airport-resumes-operations-after-attack-kills-two-injures-eight-1.500719434)
+
+_Rewritten once after review (3 issues in first draft)._
+
+---
+
 ## সৌদি আরবে হামলায় নিহত ওমরাহযাত্রী নাসরুল্লাহর পরিবারের পাশে দাঁড়ালেন ধর্মমন্ত্রী
 
 ✅ approved · 22 Oct 13:06 Dhaka · score 10 · expat_alert · sources: Dhaka Post, Prothom Alo
