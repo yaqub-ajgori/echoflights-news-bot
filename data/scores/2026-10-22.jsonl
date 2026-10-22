@@ -402,3 +402,42 @@
 {"id": "03667ab24f41", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
 {"id": "02b737474548", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
 {"id": "77844630636b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:32:02.344859+00:00"}
+{"id": "227047e105cb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "22e980641ab4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "04066425cf6f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "e418f5511a99", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "3a887059af3d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "505cf54e64da", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "e236d487a4d0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "fcd59017a073", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "5b8d2829d516", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "25c825ac9cf2", "score": 6, "topic": "airport", "event": "Saudi airport attack kills one", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "b84606e20b83", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "b5c045e8354f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "26070941e794", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "8c6a39d9f6a7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "3be0d63c9f1d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:11.732436+00:00"}
+{"id": "6a24fed2c215", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "dfd95b943a17", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "5b7416f61266", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "c52a95ed84d9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "c35600de6414", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "a7ce27b0d977", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "7d9ed0dd3e21", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "7a45d99b1c32", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "9e7ab5d7b575", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "60a581d296c3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "8b473ee7a21f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "e33d6aadc329", "score": 10, "topic": "airport", "event": "Saudi Arabia oil field and airport attacks", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "52dfdc1fe06b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "843d1d122804", "score": 10, "topic": "airport", "event": "Missile attack at King Fahd International Airport", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "6a9744257b42", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:01:54.469603+00:00"}
+{"id": "e02f046ceadc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
+{"id": "9038063de737", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
+{"id": "f82520b03b64", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
+{"id": "3264b96c8bf2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
+{"id": "0ce708d17500", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
+{"id": "cb30faba5201", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
+{"id": "a04d7aa9656c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
+{"id": "035b0c32beaf", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
+{"id": "3ab3e38aa825", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T05:02:48.459153+00:00"}
