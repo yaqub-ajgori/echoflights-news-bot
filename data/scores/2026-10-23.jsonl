@@ -11,3 +11,21 @@
 {"id": "8100ffa861e2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T18:00:50.809741+00:00"}
 {"id": "a23fc9ba95b0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T18:00:50.809741+00:00"}
 {"id": "3db1ca388834", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T18:00:50.809741+00:00"}
+{"id": "4c6934632105", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "a012cc6e60ec", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "ec94294189a8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "9cfdf7e5e797", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "732ef36be2df", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "449925932a60", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "f4f64b729c33", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "4ffe4891b932", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "2711b4d936e2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "9445cbf56422", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "25e5dce6a58b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "ee59eb516d42", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "bb88ea231b71", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "e8e1b9089387", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "0cb65df05ee4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:30:58.713332+00:00"}
+{"id": "07dfb6081a17", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:31:30.402717+00:00"}
+{"id": "9d9f177ed4c9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:31:30.402717+00:00"}
+{"id": "249e4ace6d9f", "score": 10, "topic": "expat_alert", "event": "Bangladeshi killed by terrorists in South Africa", "model": "gemma-4-31b-it", "scored": "2026-10-22T18:31:30.402717+00:00"}
