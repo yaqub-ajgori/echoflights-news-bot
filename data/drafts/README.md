@@ -2,6 +2,34 @@
 
 Newest first. Nothing here has been published.
 
+## চাকরির প্রলোভনে রাশিয়ায় গিয়ে যুদ্ধে জড়িয়ে পড়া বাংলাদেশিদের প্রাণহানি
+
+⏳ will retry · 22 Oct 09:34 Dhaka · score 10 · expat_alert · sources: BBC Bangla, Prothom Alo
+
+<img src="2026-10-22/26d03905ff/card.png" width="420">
+
+**Facebook caption**
+
+```
+উচ্চ বেতনে চাকরির প্রলোভনে পড়ে রাশিয়ায় গিয়ে প্রতারিত হচ্ছেন অনেক বাংলাদেশি তরুণ। দেশটিতে গিয়ে যুদ্ধের ক্যাম্পে ঠাঁই হওয়া এবং রাশিয়া-ইউক্রেন যুদ্ধে জড়িয়ে পড়ে গত তিন বছরে অন্তত ৫৪ জন বাংলাদেশির মৃত্যুর খবর পাওয়া গেছে।
+
+বিভিন্ন রিক্রুটিং এজেন্সির মাধ্যমে রাশিয়ায় যাওয়ার পর ২১ দিনের প্রশিক্ষণ শেষে তাদের যুদ্ধক্ষেত্রে পাঠানো হয়। বর্তমান সরকার রাশিয়ায় যাওয়ার ক্ষেত্রে কড়াকড়ি আরোপ করেছে এবং দূতাবাস থেকেও যাচাই-বাছাই ছাড়া কর্মী না পাঠানোর তাগিদ দেওয়া হয়েছে।
+
+সূত্র: প্রথম আলো, বিবিসি বাংলা
+#EchoFlights #Russia #BangladeshiWorkers #ExpatNews #TravelAlert
+```
+
+**Blog:** [চাকরির প্রলোভনে রাশিয়ায় গিয়ে যুদ্ধে জড়িয়ে পড়ার ঘটনা, ৩ বছরে ৫৪ বাংলাদেশির মৃত্যু](2026-10-22/26d03905ff/blog.md) · slug `bangladeshi-workers-lured-to-russia-war-deaths`
+
+**Sources:** [প্রথম আলো](https://www.prothomalo.com/bangladesh/mkf2is07uv) · [বিবিসি বাংলা](https://www.bbc.com/bengali/articles/cjy5606yg95do?at_medium=RSS&at_campaign=rss)
+
+**Review notes (last attempt):**
+
+- category: unknown category
+- -: rewrite could not run: gemini-3.6-flash: HTTP 503 after 2s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in d
+
+---
+
 ## সৌদি আরবে বাংলাদেশি নারী সুইটি আক্তারের মৃত্যুদণ্ড কার্যকর নিয়ে উদ্বেগ
 
 ⏳ will retry · 22 Oct 08:02 Dhaka · score 10 · expat_alert · sources: BBC Bangla, BD24Live, Prothom Alo
