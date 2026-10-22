@@ -1242,3 +1242,67 @@
 {"id": "b095fbfa06f2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T12:26:10.060306+00:00"}
 {"id": "fbf751fa2048", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T12:26:10.060306+00:00"}
 {"id": "ddee24984d5a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T12:26:10.060306+00:00"}
+{"id": "8104fe61e4ce", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "69d9ef9eb3ed", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "816bc785a952", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "0865f4d8bf5f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "0f76c98849e7", "score": 9, "topic": "expat_alert", "event": "US orders diplomatic staff out of Saudi Arabia", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "5dd08ad48e52", "score": 10, "topic": "airport", "event": "Death toll rises to two in Dammam airport attack", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "30e0ba98aef6", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "8d3866fa1d88", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "2d218d149ca3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "b2705a9624ba", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "c0b4c3cf0b4a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "6da76537cc30", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "565d5aa62062", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "e743908bda94", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "84cfda131f09", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:01:09.938107+00:00"}
+{"id": "d900abeb7d93", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "664a60e42c6d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "71fe18072214", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "6ed64d360685", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "374e4dd4ed77", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "7bd5c9f97bb3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "1e4d8af2a51e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "ce92fda0f6d6", "score": 10, "topic": "expat_alert", "event": "Bangladeshis injured in Dammam airport attack", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "5ba18076176f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "f55f3b0f51e7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "1c1749f4c4b8", "score": 10, "topic": "expat_alert", "event": "Bangladeshis injured in Dammam airport attack", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "4df22aa2bfe1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "26a4db8526fd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "7fdd481f77c7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "fa25603c05d2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:02:17.944195+00:00"}
+{"id": "7948ac62f784", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "64107013e772", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "5ba2f50c752a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "d024a4a72781", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "2054754dba70", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "6453a3713702", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "e8f75ba1ca65", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "d6c7c226d7a7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "c1065cf0cd33", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "511100b84d4a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "2213dfcff693", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "e5a6a483db28", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "df090d0ee7c0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "4d8fa5dfcb8c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "c665b5dc19d8", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:05:44.317706+00:00"}
+{"id": "352684a9f013", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "8344c4ba204b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "8c5fc6150ba9", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "07bb7496f862", "score": 4, "topic": "travel_advisory", "event": "Tourists stranded in Sajek due to gunfire", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "d3e3acb5cf44", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "38410c12b15a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "e078bfb3c9b2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "1d6768795f12", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "fa5b373f6396", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "2d075b3fbe8b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "95c4ff1c4d2a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "268728bfc6c1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "59d000112e2f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "f8bb53cfef90", "score": 4, "topic": "visa_rule", "event": "Japan overhauls tax-free shopping for foreign visitors", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "025c17a08bc6", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T13:06:31.849684+00:00"}
+{"id": "575384e0d04a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:07:04.136981+00:00"}
+{"id": "f6e95b216180", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:07:04.136981+00:00"}
+{"id": "15db593e51cb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:07:04.136981+00:00"}
+{"id": "29d8e80078e1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T13:07:04.136981+00:00"}
