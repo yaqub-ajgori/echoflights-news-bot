@@ -2,6 +2,38 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদি আরবে বাংলাদেশি নারী সুইটি আক্তারের মৃত্যুদণ্ড কার্যকর নিয়ে উদ্বেগ
+
+⏳ will retry · 22 Oct 08:02 Dhaka · score 10 · expat_alert · sources: BBC Bangla, BD24Live, Prothom Alo
+
+<img src="2026-10-22/6afcf94b8e/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবে টাঙ্গাইলের মির্জাপুরের বাসিন্দা সুইটি আক্তার নামের এক বাংলাদেশি নারীর মৃত্যুদণ্ড কার্যকরের খবর পাওয়া গেছে।
+
+প্রবাসী কল্যাণ মন্ত্রণালয় সূত্রে জানা গেছে, ২০২৩ সালে সরকারি নিয়ম মেনে পরিচ্ছন্নতাকর্মী হিসেবে সৌদি আরবে যান সুইটি। সেখানে যাওয়ার প্রায় ৬ মাসের মাথায় তিনি গ্রেপ্তার হন। পরিবার জানায়, কারাগার থেকেও তিনি নিয়মিত পরিবারকে ফোন দিতেন। গত ১৪ অক্টোবর তাঁর মৃত্যুদণ্ড কার্যকরের খবর ছড়িয়ে পড়লে পরিবারে শোক নেমে আসে। তবে স্থানীয় প্রশাসন জানায়, বিষয়টিতে সরকারি নিশ্চিত হওয়ার চেষ্টা চলছে।
+
+সূত্র: বিবিসি বাংলা, প্রথম আলো ও বিডি২৪লাইভ
+
+#EchoFlights #SaudiArabia #ExpatNews #Tangail #Bangladesh #BangladeshiExpat
+```
+
+**Blog:** [সৌদি আরবে বাংলাদেশি নারী সুইটি আক্তারের মৃত্যুদণ্ড কার্যকরের খবরে পরিবারে শোক](2026-10-22/6afcf94b8e/blog.md) · slug `saudi-arabia-bangladeshi-woman-sweety-execution-news`
+
+**Sources:** [বিবিসি বাংলা](https://www.bbc.com/bengali/articles/c9zrdpk0462zo?at_medium=RSS&at_campaign=rss) · [প্রথম আলো](https://www.prothomalo.com/bangladesh/district/saudite-suittir-mrtyudnndd-mirjaapure-shok) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810298)
+
+**Review notes (last attempt):**
+
+- caption: number 24 does not appear in any source
+- caption: number 6 does not appear in any source
+- blog_body: number 24 does not appear in any source
+- blog_body: number 6 does not appear in any source
+- -: rewrite could not run: gemini-3.8-flash: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in d
+
+---
+
 ## সৌদিতে ভিক্ষা করার অভিযোগে বাংলাদেশিসহ চারজন গ্রেপ্তার
 
 ✅ approved · 22 Oct 05:31 Dhaka · score 9 · expat_alert · sources: BD24Live, Dhaka Post
