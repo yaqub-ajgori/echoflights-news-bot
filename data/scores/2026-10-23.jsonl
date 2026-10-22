@@ -119,3 +119,7 @@
 {"id": "2ede4b8025a2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T20:48:16.420550+00:00"}
 {"id": "529965664bb5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T20:48:16.420550+00:00"}
 {"id": "97d428c4a42c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T20:48:16.420550+00:00"}
+{"id": "e01c7556fb13", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T21:01:34.621359+00:00"}
+{"id": "553869239c35", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T21:01:34.621359+00:00"}
+{"id": "2326bfe9a8d8", "score": 10, "topic": "flight_disruption", "event": "Flights to Dammam and Riyadh suspended", "model": "gemma-4-31b-it", "scored": "2026-10-22T21:01:34.621359+00:00"}
+{"id": "3b2ab30ee356", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T21:01:34.621359+00:00"}
