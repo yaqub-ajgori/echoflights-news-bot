@@ -328,3 +328,38 @@
 {"id": "258eef4a0038", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T03:33:37.424548+00:00"}
 {"id": "79275d96c37e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T03:33:37.424548+00:00"}
 {"id": "9fd34cebe93d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T03:33:37.424548+00:00"}
+{"id": "a6b673f5d7a2", "score": 8, "topic": "airport", "event": "Attack on King Fahd International Airport Dammam", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "40b6b9b97428", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "7114786c6f4e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "8a560b0e5119", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "08117b9ea3fd", "score": 8, "topic": "airport", "event": "Attack on King Fahd International Airport Dammam", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "169fc98ca931", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "eceb280f2d0d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "49c94e87f88f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "71a99ff026c0", "score": 10, "topic": "flight_disruption", "event": "Biman Bangladesh resumes flights to Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "90fe90fed69a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "b157f39e7eac", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "4312de98c65d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "a161fd5c0f72", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "380b03d741b1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "b1e582f1d6da", "score": 6, "topic": "travel_advisory", "event": "US embassy orders staff leave Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-22T04:02:23.503271+00:00"}
+{"id": "c939c826fe06", "score": 9, "topic": "expat_alert", "event": "Bangladeshi national injured and hospitalized in Russia", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "f08856409144", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "cd45a6433626", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "4d0716ffd166", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "b1210c8ea6e2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "3e7820b39b44", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "c3cba57ee2de", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "0e9724fc38a3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "7030bdccf2bd", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "763b00b25ab3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "4ba13c88fb8a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "9e99e8347103", "score": 9, "topic": "airport", "event": "Attack on King Fahd Airport in Dammam", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "c2cc46eb5f5c", "score": 8, "topic": "flight_disruption", "event": "Houthi attacks disrupt flights to Saudi Arabia", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "a82d6d401ab7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "7e902c3ca938", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:04:51.152742+00:00"}
+{"id": "5c59ab2935f1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:05:31.863792+00:00"}
+{"id": "36fa35e69cff", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:05:31.863792+00:00"}
+{"id": "0f06a1d66e18", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:05:31.863792+00:00"}
+{"id": "cd6f4ba81bb1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:05:31.863792+00:00"}
+{"id": "38ead39ade59", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T04:05:31.863792+00:00"}
