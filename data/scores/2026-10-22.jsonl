@@ -1670,3 +1670,40 @@
 {"id": "7cf41796a5b4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:03:06.839320+00:00"}
 {"id": "d36c9c324bf0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:03:06.839320+00:00"}
 {"id": "e2e6230ee20a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:03:06.839320+00:00"}
+{"id": "ae6f16d286f2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "5b776d559c59", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "5a6931ce053f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "e45cb7ad3e63", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "c12d76c11187", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "99ecd9a35d11", "score": 9, "topic": "expat_alert", "event": "Kuwait launches online passport loss reporting service", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "75243c10dcd8", "score": 10, "topic": "flight_disruption", "event": "Biman suspends Dammam and Riyadh flights", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "bfb0f5a0c815", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "a646c4e3709a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "f9740930e38d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "30b9718d8287", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "70f47eaa8247", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "1bc10ea9bc5a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "c62d23995aeb", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "573f0bd2d15f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-22T17:32:13.941086+00:00"}
+{"id": "36c711a07c55", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "7b49c8da75a3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "5342837ac5bf", "score": 10, "topic": "expat_alert", "event": "Two Bangladeshis injured in Dammam airport attack", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "2bbad95f39df", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "65a31f1605e0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "143ec14bdb71", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "cb030d1a243f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "1e5842420e2c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "8ac2d378959a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "20b81582917e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "d7f9a9ad232d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "4a956cf7e215", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "3106525e59dd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "297cd3dd33dc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "cdc8e76e4b89", "score": 10, "topic": "expat_alert", "event": "Bangladeshis among foreigners executed in Saudi Arabia", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:32:53.867942+00:00"}
+{"id": "289ccf1b4b0e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:33:57.782385+00:00"}
+{"id": "e1b22ccd75d2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:33:57.782385+00:00"}
+{"id": "6c3857ff41df", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:33:57.782385+00:00"}
+{"id": "856e414acb61", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:33:57.782385+00:00"}
+{"id": "0b6df747f57b", "score": 10, "topic": "expat_alert", "event": "Saudi government silent on 20 Bangladeshis' punishment", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:33:57.782385+00:00"}
+{"id": "7672946e7c80", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:33:57.782385+00:00"}
+{"id": "fe673620da2c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-22T17:33:57.782385+00:00"}
