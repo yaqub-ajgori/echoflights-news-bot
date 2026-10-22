@@ -2,6 +2,34 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদির দাম্মাম বিমানবন্দরে হামলায় ২ জন নিহত, দুই বাংলাদেশি আহত
+
+✅ approved · 23 Oct 03:01 Dhaka · score 10 · airport · sources: BD24Live, Bangladesh Diplomat, Bangladesh Journal, Dhaka Post, Prothom Alo, Saudi Gazette
+
+<img src="2026-10-23/c7c0f43a74/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবের দাম্মামে অবস্থিত কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হামলায় দুজন নিহত এবং দুজন বাংলাদেশিসহ আটজন আহত হয়েছেন।
+
+সৌদির বেসামরিক বিমান চলাচল কর্তৃপক্ষ (জিএসিএ) ও বাংলাদেশের প্রবাসী কল্যাণ মন্ত্রণালয় জানায়, গত ২১ অক্টোবর বুধবার রাতে এই হামলা ঘটে। আহত দুই বাংলাদেশি—কুমিল্লার সজল চন্দ্র দাস ও নোয়াখালীর মোহাম্মদ আব্দুর রহিম ধোঁয়ায় অসুস্থ হয়ে পড়েছিলেন। তারা দাম্মামের সৌদি জার্মান হাসপাতালে চিকিৎসাধীন এবং আশঙ্কামুক্ত রয়েছেন। জিএসিএ জানিয়েছে, বর্তমানে বিমানবন্দরে ফ্লাইট চলাচল স্বাভাবিক হয়েছে।
+
+সৌদি আরবগামী প্রবাসী ও যাত্রীদের প্রয়োজনে রিয়াদের বাংলাদেশ দূতাবাস বা বিমান সংস্থার অফিসিয়াল চ্যানেলে যোগাযোগের পরামর্শ দেওয়া হচ্ছে।
+
+সূত্র: Saudi Gazette ও ঢাকা পোস্ট
+
+#EchoFlights #SaudiArabia #DammamAirport #BangladeshiExpat #SaudiNews
+```
+
+**Blog:** [সৌদির দাম্মাম বিমানবন্দরে হামলা: ২ জনের মৃত্যু, দুই বাংলাদেশি হাসপাতালে চিকিৎসাধীন](2026-10-23/c7c0f43a74/blog.md) · slug `dammam-airport-attack-bangladeshis-injured-saudi-arabia`
+
+**Sources:** [Saudi Gazette](https://saudigazette.com.sa/article/665643/saudi-arabia/dammam-airport-attack-death-toll-rises-to-two-eight-injured) · [ঢাকা পোস্ট](https://www.dhakapost.com/national/492283) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810454)
+
+_Rewritten once after review (2 issues in first draft)._
+
+---
+
 ## সৌদি আরবের নিরাপত্তা শঙ্কায় বিমানের দাম্মাম ও রিয়াদ ফ্লাইট স্থগিত
 
 ✅ approved · 23 Oct 01:32 Dhaka · score 10 · flight_disruption · sources: Bangladesh Journal, Prothom Alo
