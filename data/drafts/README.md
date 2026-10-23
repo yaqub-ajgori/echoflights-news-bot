@@ -2,6 +2,31 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদির কারাগারে প্রায় সাড়ে সাত হাজার বাংলাদেশি বন্দী: পররাষ্ট্র প্রতিমন্ত্রী
+
+✅ approved · 24 Oct 04:01 Dhaka · score 10 · expat_alert · sources: Bangladesh Diplomat, Bangladesh Journal, Prothom Alo
+
+<img src="2026-10-24/c0dd93a3bc/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবের বিভিন্ন কারাগারে প্রায় সাড়ে সাত হাজার বাংলাদেশি বন্দী রয়েছেন বলে জানিয়েছেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।
+
+শুক্রবার সকালে ঢাকায় নিহত এক প্রবাসীর মরদেহ গ্রহণ শেষে তিনি জানান, সম্প্রতি দেশটিতে দুই বাংলাদেশির মৃত্যুদণ্ড কার্যকরের ঘটনায় বিস্তারিত জানতে রায়ের অনুলিপি চেয়ে সৌদি সরকারকে চিঠি দেওয়া হয়েছে। তবে এ বিষয়ে এখনো বিস্তারিত তথ্য মেলেনি। এছাড়া সংঘাতের কারণে দেশে আটকে পড়া প্রবাসী কর্মীদের ভিসার মেয়াদ বাড়ানোর বিষয়ে সৌদি কর্তৃপক্ষের সঙ্গে আলোচনা চলছে বলে প্রতিমন্ত্রী জানান।
+
+সূত্র: প্রথম আলো ও Bangladesh Diplomat
+#SaudiArabia #BangladeshExpatriates #ProbashiNews #EchoFlights #ForeignMinistry
+```
+
+**Blog:** [সৌদির কারাগারে সাড়ে ৭ হাজার বাংলাদেশি বন্দী, মৃত্যুদণ্ডের রায়ের কপি চেয়েছে সরকার](2026-10-24/c0dd93a3bc/blog.md) · slug `saudi-arabia-bangladeshi-prisoners-death-sentence-update`
+
+**Sources:** [প্রথম আলো](https://en.prothomalo.com/bangladesh/b0yvs18uhz) · [প্রথম আলো](https://www.prothomalo.com/bangladesh/saudir-kaaraagaare-saarre-saat-haajaar-baanlaadeshi-bndii) · [Bangladesh Diplomat](https://bangladeshdiplomat.com/44164/latest/raw39061/)
+
+_Rewritten once after review (1 issues in first draft)._
+
+---
+
 ## ইতালি, গ্রিস ও সাইপ্রাস থেকে ৩৫ বাংলাদেশিকে দেশে ফেরত পাঠানো হয়েছে
 
 ✅ approved · 23 Oct 13:33 Dhaka · score 10 · expat_alert · sources: Dhaka Post, Prothom Alo
