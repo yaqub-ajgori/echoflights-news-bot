@@ -86,3 +86,10 @@
 {"id": "b59013673daa", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T19:30:47.074110+00:00"}
 {"id": "d2590bb6e4d3", "score": 10, "topic": "flight_disruption", "event": "Saudi-bound flights disrupted due to airport restrictions", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T19:30:47.074110+00:00"}
 {"id": "699ebca4acc3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T19:30:47.074110+00:00"}
+{"id": "d02b2473b031", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T20:01:57.981235+00:00"}
+{"id": "88e98a0c84f9", "score": 9, "topic": "expat_alert", "event": "Dead body of Bangladeshi expat returned from Saudi", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T20:01:57.981235+00:00"}
+{"id": "221a9e40a60e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T20:01:57.981235+00:00"}
+{"id": "c29d1facdeaf", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T20:01:57.981235+00:00"}
+{"id": "4b6710889dcf", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T20:01:57.981235+00:00"}
+{"id": "e7857d9e1942", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T20:01:57.981235+00:00"}
+{"id": "b5beb3d7052e", "score": 9, "topic": "labour_rule", "event": "Kuwait plans tougher action for delayed worker salaries", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T20:01:57.981235+00:00"}
