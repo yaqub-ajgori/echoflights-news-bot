@@ -1115,3 +1115,44 @@
 {"id": "c1cf45ce8878", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T12:34:31.718102+00:00"}
 {"id": "0045842018f8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T12:34:31.718102+00:00"}
 {"id": "5c1d505e8682", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T12:34:31.718102+00:00"}
+{"id": "18bb141f4571", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "dbcd2c0ea5df", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "25e67fc5c9f9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "6991a746b169", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "d60ae4d47194", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "64cf22bfaa45", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "be687e8b382a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "269d286ddbfb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "5b64802789a2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "57c8be309f60", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "c5ff0c32a9f5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "bbd6a5f4a3f7", "score": 10, "topic": "expat_alert", "event": "Two Bangladeshis injured in Houthi attack in Saudi", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "8aa55012fa9e", "score": 5, "topic": "travel_advisory", "event": "Dubai outlines passenger rights for flight disruptions", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "dadd25885a33", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "34f543174cb3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T13:01:30.657731+00:00"}
+{"id": "b677c7faede7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "975867d4adcf", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "ebb496ef224e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "7b4798745a8f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "9f00370ffe4b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "6c952671beef", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "bf7bdba3c2e3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "edbc658b0547", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "cf2655515c4b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "216bc14cd746", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "688c4ea37de2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "875fb4b85431", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "c65a7e08702d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "94ba90fa99a5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "8c63128e8f49", "score": 9, "topic": "expat_alert", "event": "Thousands of Bangladeshi prisoners in Saudi prisons", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:02:23.244129+00:00"}
+{"id": "90a216ef4298", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "6a78a54b4541", "score": 9, "topic": "airport", "event": "Bangladesh condemns Houthi attack on Dammam airport", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "66a46cf75f7c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "575b5215d2f0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "419ab07f806f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "35c715711dd1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "448a56180121", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "81a1abb6a356", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "f197c17e9090", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "858ba69f38a3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
+{"id": "70e2b0b197d3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T13:03:22.838471+00:00"}
