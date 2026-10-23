@@ -431,3 +431,25 @@
 {"id": "5e08b3d2a2ec", "score": 10, "topic": "expat_alert", "event": "Body of Bangladeshi killed in Riyadh airport attack arrives", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
 {"id": "3f6b8fbfafa9", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
 {"id": "14bb4d053a7f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "053dc379622b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "0156027d5640", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "ea91a3742332", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "cf5ee2a1c754", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "64b183666cff", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "64cd72e459c1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "870f1311f4af", "score": 10, "topic": "labour_rule", "event": "BD government works to extend Saudi Iqamas", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "f59f6b714f6a", "score": 4, "topic": "travel_advisory", "event": "Houthi drone and missile attacks in Saudi", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "c64d601e7f41", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "02d0bc0ddd34", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "36c8034ea95a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "2f7163f8453d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "3bcdb56174b9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "a70adbe65132", "score": 4, "topic": "travel_advisory", "event": "Iran attacks US-linked ships in Hormuz Strait", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "f88be344d189", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:02:13.483635+00:00"}
+{"id": "c46c99d04adc", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T05:02:34.668614+00:00"}
+{"id": "f059447a5a18", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T05:02:34.668614+00:00"}
+{"id": "9a98fe7b9f97", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T05:02:34.668614+00:00"}
+{"id": "8162ca9be86c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T05:02:34.668614+00:00"}
+{"id": "03722e836962", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T05:02:34.668614+00:00"}
+{"id": "404f73cc1a70", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T05:02:34.668614+00:00"}
+{"id": "c5d8bbe6375d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T05:02:34.668614+00:00"}
