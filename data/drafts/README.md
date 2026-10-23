@@ -2,6 +2,30 @@
 
 Newest first. Nothing here has been published.
 
+## ইতালি, গ্রিস ও সাইপ্রাস থেকে ৩৫ বাংলাদেশিকে দেশে ফেরত পাঠানো হয়েছে
+
+✅ approved · 23 Oct 13:33 Dhaka · score 10 · expat_alert · sources: Dhaka Post, Prothom Alo
+
+<img src="2026-10-23/bba7e5872b/card.png" width="420">
+
+**Facebook caption**
+
+```
+ইউরোপের তিন দেশ ইতালি, গ্রিস ও সাইপ্রাস থেকে ৩৫ বাংলাদেশি নাগরিককে দেশে ফেরত পাঠানো হয়েছে। শুক্রবার সকালে একটি বিশেষ চার্টার্ড ফ্লাইটে তারা ঢাকায় হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে এসে পৌঁছান।
+
+ফেরত আসা প্রবাসীদের মধ্যে ইতালি থেকে ১৯ জন, গ্রিস থেকে ১০ জন এবং সাইপ্রাস থেকে ৬ জন রয়েছেন। বিমানবন্দর সূত্রে জানা গেছে, ইউরোপীয় ইউনিয়নের সীমান্ত ব্যবস্থাপনা সংস্থা ফ্রন্টেক্সের ব্যবস্থাপনায় পরিচালিত একটি বিশেষ ফ্লাইটে তারা দেশে ফেরেন। বিমানবন্দরে তাদেরকে জরুরি সহায়তা, কাউন্সিলিং ও যাতায়াত খরচ দেয় ব্র্যাকের মাইগ্রেশন প্রোগ্রাম।
+
+সূত্র: প্রথম আলো ও ঢাকা পোস্ট
+
+#EchoFlights #EuropeDeportation #BangladeshiExpats #BRAC #MigrationUpdate
+```
+
+**Blog:** [ইউরোপের ৩ দেশ থেকে ৩৫ বাংলাদেশিকে দেশে ফেরত পাঠানো হয়েছে](2026-10-23/bba7e5872b/blog.md) · slug `thirty-five-bangladeshis-returned-from-europe`
+
+**Sources:** [প্রথম আলো](https://www.prothomalo.com/bangladesh/v0fngdd2ql) · [ঢাকা পোস্ট](https://www.dhakapost.com/national/492369)
+
+---
+
 ## সৌদিতে দণ্ডপ্রাপ্ত ২০ বাংলাদেশির সাজা অস্পষ্ট, বিস্তারিত চেয়েছে কনস্যুলেট
 
 ❌ rejected · 23 Oct 13:03 Dhaka · score 10 · expat_alert · sources: BD24Live, Prothom Alo
