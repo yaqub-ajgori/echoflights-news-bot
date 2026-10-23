@@ -920,3 +920,35 @@
 {"id": "538d014dc6c0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T10:33:56.917368+00:00"}
 {"id": "0f4594b8bd63", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T10:33:56.917368+00:00"}
 {"id": "676793da4b71", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T10:33:56.917368+00:00"}
+{"id": "c2329778f023", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "8deb6d9a6b9c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "5498703b7691", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "c7316c4a9fe2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "a05ec68936d5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "e58ef226a31f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "47af7aa999c7", "score": 9, "topic": "expat_alert", "event": "Emergency alert issued for Riyadh residents", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "c7d930d2fbc8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "e434ec3cd793", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "a4d2c5a181c1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "add408da83d0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "06d140a00d62", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "fa21b3aadd0c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "ae6fc6e44bfc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "afbb789d5506", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:00.480514+00:00"}
+{"id": "173086420ee4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "8e3b940d8b10", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "1598097060f6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "192568e84cb0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "f4b2f73f2353", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "9bd6b5fddfb0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "003955f6bcb1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "38fbc0829daf", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "2e39ac2ba8e4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "98dd2ceac7e4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "17797ea09604", "score": 9, "topic": "flight_disruption", "event": "Flydubai extends Saudi flight cancellations to Oct 29", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "8068402fc43b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "783bfb94e2e6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "11642c044abb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "a6b38c9c2632", "score": 7, "topic": "airport", "event": "Houthi attacks on King Fahd International Airport", "model": "gemma-4-31b-it", "scored": "2026-10-23T11:01:51.709559+00:00"}
+{"id": "b221b7c62dff", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T11:02:12.709383+00:00"}
+{"id": "6d7b7b7b24d5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T11:02:12.709383+00:00"}
