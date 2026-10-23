@@ -418,3 +418,16 @@
 {"id": "95b86e0822d7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T04:33:12.390942+00:00"}
 {"id": "a043ee5ace33", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T04:33:12.390942+00:00"}
 {"id": "cda185094790", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T04:33:12.390942+00:00"}
+{"id": "a88ea6fd005b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "6235baf1d5c4", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "39871782cb72", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "56872115b461", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "c21f0f42d0c3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "31236f62b07b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "6b1668195972", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "55f957caf971", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "c5809c5c4d92", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "ab61f6fa789c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "5e08b3d2a2ec", "score": 10, "topic": "expat_alert", "event": "Body of Bangladeshi killed in Riyadh airport attack arrives", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "3f6b8fbfafa9", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
+{"id": "14bb4d053a7f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T04:39:42.012835+00:00"}
