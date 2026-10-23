@@ -2,27 +2,27 @@
 
 Newest first. Nothing here has been published.
 
-## সৌদিতে ২২ বাংলাদেশি বন্দির রায়ের বিবরণ জানতে চিঠি পাঠাল জেদ্দা কনস্যুলেট
+## সৌদিতে দণ্ডপ্রাপ্ত ২০ বাংলাদেশির সাজা অস্পষ্ট, বিস্তারিত চেয়েছে কনস্যুলেট
 
-⏳ will retry · 23 Oct 08:02 Dhaka · score 10 · expat_alert · sources: BD24Live, Prothom Alo
+❌ rejected · 23 Oct 13:03 Dhaka · score 10 · expat_alert · sources: BD24Live, Prothom Alo
 
 <img src="2026-10-23/a3796f3b2c/card.png" width="420">
 
 **Facebook caption**
 
 ```
-সৌদি আরবে কারাগারে থাকা ২২ জন বাংলাদেশি বন্দির সাজার বিষয়ে সুনির্দিষ্ট তথ্য চেয়ে সৌদি সরকারের কাছে চিঠি দিয়েছে জেদ্দায় বাংলাদেশ কনস্যুলেট।
+সৌদি আরবের বিভিন্ন কারাগারে বন্দি থাকা ২০ জন বাংলাদেশির দণ্ডাদেশ সম্পর্কিত বিস্তারিত তথ্য জানতে দেশটির পররাষ্ট্র মন্ত্রণালয়ে চিঠি দিয়েছে জেদ্দায় বাংলাদেশ কনস্যুলেট।
 
-গত ৩০ সেপ্টেম্বর সৌদি পররাষ্ট্র মন্ত্রণালয় ২,৪৬১ জন বন্দির একটি তালিকা পাঠায়। তাতে ২২ জনের নামের পাশে 'দণ্ডপ্রাপ্ত' লেখা থাকলেও সাজার বিস্তারিত তথ্য ফাঁকা রাখা হয়েছে। এই তালিকার মধ্যে সম্প্রতি মৃত্যুদণ্ড কার্যকর হওয়া নজরুল ইসলাম ও সুইটি আক্তারও ছিলেন। বাকি ২০ জন বন্দির সাজার ধরন জানতে গত ১৯ অক্টোবর সৌদি কর্তৃপক্ষের কাছে চিঠি পাঠানো হয়।
+সৌদি সরকারের পাঠানো ২ হাজার ৪৬১ জন বন্দীর তালিকায় ২২ জনের নামের পাশে 'দণ্ডপ্রাপ্ত' লেখা থাকলেও শাস্তির মেয়াদ বা ধরন উল্লেখ ছিল না। সম্প্রতি এই তালিকাভুক্ত দুজন বাংলাদেশির মৃত্যুদণ্ড কার্যকরের পর বাকি ২০ জনের সাজা নিয়ে অনিশ্চয়তা দেখা দিয়েছে।
 
-প্রবাসীদের সঠিক কনস্যুলার সুবিধা প্রদান এবং রেকর্ড হালনাগাদ করার স্বার্থে এই রায়ের সারসংক্ষেপ জরুরি বলে জানিয়েছেন কনসাল জেনারেল মো. শাখাওয়াত হোসেন।
+কনস্যুলার সেবা নিশ্চিত করতে ও তথ্যভান্ডার হালনাগাদে রায়ের সারসংক্ষেপ জরুরি বলে জানিয়েছে কনস্যুলেট।
 
-সূত্র: প্রথম আলো, বিডি২৪লাইভ
+সূত্র: প্রথম আলো ও বিডি২৪লাইভ
 
-#SaudiArabia #ExpatNews #JeddahConsulate #BangladeshExpats #EchoFlights
+#SaudiArabia #ExpatNews #JeddahConsulate #BangladeshiExpats #EchoFlights
 ```
 
-**Blog:** [সৌদিতে ২২ বাংলাদেশি বন্দির সাজার বিবরণ জানতে জেদ্দা কনস্যুলেটের চিঠি](2026-10-23/a3796f3b2c/blog.md) · slug `saudi-arabia-bangladeshi-prisoners-sentence-details-jeddah-consulate`
+**Blog:** [সৌদিতে দণ্ডপ্রাপ্ত ২০ বাংলাদেশির সাজা অস্পষ্ট: বিস্তারিত রায়ের তথ্য চেয়েছে জেদ্দা কনস্যুলেট](2026-10-23/a3796f3b2c/blog.md) · slug `saudi-arabia-imprisoned-bangladeshis-verdict-details-requested`
 
 **Sources:** [প্রথম আলো](https://www.prothomalo.com/bangladesh/9v9wjre6oy) · [প্রথম আলো](https://en.prothomalo.com/bangladesh/7oikjfhf7o) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810477)
 
@@ -30,7 +30,33 @@ Newest first. Nothing here has been published.
 
 - caption: number 24 does not appear in any source
 - blog_body: number 24 does not appear in any source
-- -: rewrite could not run: gemini-3.6-flash: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in d
+
+_Rewritten once after review (2 issues in first draft)._
+
+---
+
+## দক্ষিণ আফ্রিকায় চাঁদা না দেওয়ায় শরীয়তপুরের প্রবাসী ব্যবসায়ী গুলিতে নিহত
+
+✅ approved · 23 Oct 13:03 Dhaka · score 10 · expat_alert · sources: BD24Live, Bangladesh Journal
+
+<img src="2026-10-23/014c99d6d4/card.png" width="420">
+
+**Facebook caption**
+
+```
+দক্ষিণ আফ্রিকায় সন্ত্রাসীদের দাবিকৃত চাঁদা দিতে অস্বীকৃতি জানানোয় মারুফ বেপারি নামের এক বাংলাদেশি প্রবাসীকে গুলি করে হত্যা করা হয়েছে।
+
+বুধবার (২১ অক্টোবর) রাতে দেশটির কেপটাউনের বুস্টার এলাকায় নিজ ব্যবসাপ্রতিষ্ঠানে তিনি গুলিতে নিহত হন। নিহত মারুফ শরীয়তপুরের ডামুড্যা উপজেলার বাসিন্দা। তিনি ১৪ বছরের বেশি সময় ধরে সেখানে ব্যবসা করছিলেন। স্থানীয় একটি সন্ত্রাসী চক্র তাঁর কাছে প্রতি মাসে ৫০০ র‍্যান্ড চাঁদা দাবি করত। নিহতের মরদেহ বর্তমানে দক্ষিণ আফ্রিকার একটি হাসপাতালে রয়েছে। মরদেহ দ্রুত দেশে ফিরিয়ে আনতে সরকারের সহযোগিতা চেয়েছেন তাঁর স্বজনেরা।
+
+সূত্র: বাংলাদেশ জার্নাল, বিডি টুয়েন্টিফোর লাইভ
+#SouthAfrica #BangladeshiExpat #Shariatpur #ExpatNews #EchoFlights
+```
+
+**Blog:** [দক্ষিণ আফ্রিকায় সন্ত্রাসীদের গুলিতে শরীয়তপুরের প্রবাসী ব্যবসায়ী নিহত](2026-10-23/014c99d6d4/blog.md) · slug `bangladeshi-expat-killed-in-south-africa`
+
+**Sources:** [বাংলাদেশ জার্নাল](https://www.bd-journal.com/international/314592/দক্ষিণ-আফ্রিকায়-চাঁদা-না-দেওয়ায়-শরীয়তপুরের-প্রবাসীকে-গুলি-করে-হত্যা) (feed summary only) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810481)
+
+_Rewritten once after review (2 issues in first draft)._
 
 ---
 

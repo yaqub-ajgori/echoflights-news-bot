@@ -10,5 +10,9 @@
  "2026-10-22": {
   "gemini-3.8-flash": 18,
   "gemini-3.6-flash": 18
+ },
+ "2026-10-23": {
+  "gemini-3.8-flash": 4,
+  "gemini-3.6-flash": 1
  }
 }
