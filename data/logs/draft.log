@@ -1059,3 +1059,23 @@
 2026-10-23 01:33:37   error: write failed for a3796f3b2c: gemini-3.6-flash: HTTP 503 after 0s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
 2026-10-23 01:33:37   error: gemini-3.6-flash: HTTP 503 after 6s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
 2026-10-23 01:33:37   error: write failed for 014c99d6d4: gemini-3.6-flash: HTTP 503 after 0s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'; write failed for a3796f3b
+2026-10-23 02:02:46 draft run started
+2026-10-23 02:02:46 40 candidates, 13 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 18, 'gemini-3.6-flash': 15}
+2026-10-23 02:02:46 calling gemini-3.5-flash-lite
+2026-10-23 02:02:49 writing story a3796f3b2c: Saudi Arabia lists 22 imprisoned Bangladeshis without sentences
+2026-10-23 02:02:49 fetching প্রথম আলো: https://www.prothomalo.com/bangladesh/9v9wjre6oy
+2026-10-23 02:02:50 fetching প্রথম আলো: https://en.prothomalo.com/bangladesh/7oikjfhf7o
+2026-10-23 02:02:50 fetching বিডি২৪লাইভ: https://www.bd24live.com/bangla/810477
+2026-10-23 02:02:50 calling gemini-3.6-flash
+2026-10-23 02:03:07 calling gemma-4-31b-it
+2026-10-23 02:03:52 attempt 1: failed with 2 issues
+2026-10-23 02:03:52 calling gemini-3.6-flash
+2026-10-23 02:04:13 saved retry_later draft a3796f3b2c
+2026-10-23 02:04:13 writing story 014c99d6d4: Bangladeshi expatriate killed in South Africa
+2026-10-23 02:04:13 fetching বাংলাদেশ জার্নাল: https://www.bd-journal.com/international/314592/দক্ষিণ-আফ্রিকায়-চাঁদা-না-দেওয়ায়-শরীয়তপুরের-প্রবাসীকে
+2026-10-23 02:04:14 fetching বিডি২৪লাইভ: https://www.bd24live.com/bangla/810481
+2026-10-23 02:04:14 calling gemini-3.6-flash
+2026-10-23 02:04:35 done: candidates=40 groups={'already_drafted': 8, 'single_source': 5, 'verified': 2} drafts=1 errors=3
+2026-10-23 02:04:35   error: gemini-3.6-flash: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-23 02:04:35   error: gemini-3.6-flash: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-23 02:04:35   error: write failed for 014c99d6d4: gemini-3.6-flash: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'; gemini-3.6-flash: HTTP 50

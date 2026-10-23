@@ -2,6 +2,38 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদিতে ২২ বাংলাদেশি বন্দির রায়ের বিবরণ জানতে চিঠি পাঠাল জেদ্দা কনস্যুলেট
+
+⏳ will retry · 23 Oct 08:02 Dhaka · score 10 · expat_alert · sources: BD24Live, Prothom Alo
+
+<img src="2026-10-23/a3796f3b2c/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবে কারাগারে থাকা ২২ জন বাংলাদেশি বন্দির সাজার বিষয়ে সুনির্দিষ্ট তথ্য চেয়ে সৌদি সরকারের কাছে চিঠি দিয়েছে জেদ্দায় বাংলাদেশ কনস্যুলেট।
+
+গত ৩০ সেপ্টেম্বর সৌদি পররাষ্ট্র মন্ত্রণালয় ২,৪৬১ জন বন্দির একটি তালিকা পাঠায়। তাতে ২২ জনের নামের পাশে 'দণ্ডপ্রাপ্ত' লেখা থাকলেও সাজার বিস্তারিত তথ্য ফাঁকা রাখা হয়েছে। এই তালিকার মধ্যে সম্প্রতি মৃত্যুদণ্ড কার্যকর হওয়া নজরুল ইসলাম ও সুইটি আক্তারও ছিলেন। বাকি ২০ জন বন্দির সাজার ধরন জানতে গত ১৯ অক্টোবর সৌদি কর্তৃপক্ষের কাছে চিঠি পাঠানো হয়।
+
+প্রবাসীদের সঠিক কনস্যুলার সুবিধা প্রদান এবং রেকর্ড হালনাগাদ করার স্বার্থে এই রায়ের সারসংক্ষেপ জরুরি বলে জানিয়েছেন কনসাল জেনারেল মো. শাখাওয়াত হোসেন।
+
+সূত্র: প্রথম আলো, বিডি২৪লাইভ
+
+#SaudiArabia #ExpatNews #JeddahConsulate #BangladeshExpats #EchoFlights
+```
+
+**Blog:** [সৌদিতে ২২ বাংলাদেশি বন্দির সাজার বিবরণ জানতে জেদ্দা কনস্যুলেটের চিঠি](2026-10-23/a3796f3b2c/blog.md) · slug `saudi-arabia-bangladeshi-prisoners-sentence-details-jeddah-consulate`
+
+**Sources:** [প্রথম আলো](https://www.prothomalo.com/bangladesh/9v9wjre6oy) · [প্রথম আলো](https://en.prothomalo.com/bangladesh/7oikjfhf7o) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810477)
+
+**Review notes (last attempt):**
+
+- caption: number 24 does not appear in any source
+- blog_body: number 24 does not appear in any source
+- -: rewrite could not run: gemini-3.6-flash: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in d
+
+---
+
 ## সৌদির দাম্মাম বিমানবন্দরে হামলায় ২ জন নিহত, দুই বাংলাদেশি আহত
 
 ✅ approved · 23 Oct 03:01 Dhaka · score 10 · airport · sources: BD24Live, Bangladesh Diplomat, Bangladesh Journal, Dhaka Post, Prothom Alo, Saudi Gazette
