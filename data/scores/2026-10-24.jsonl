@@ -122,3 +122,24 @@
 {"id": "daf0285a9a5b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:02:11.546348+00:00"}
 {"id": "06d2cf447d5d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:02:11.546348+00:00"}
 {"id": "489afe3ddb30", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:02:11.546348+00:00"}
+{"id": "a5d913d48260", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "1b073fbeb2e1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "59ad8194ba8a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "e06bc4b8a930", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "6966ebaa34db", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "5507d33f0ae7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "87aae84fa25e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "9a8c710fd782", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "e500b65c4609", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "d4aeec57d09b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "21fd8adfa4b0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "b4a8a233c6b0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "6284f292a02b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "d273d361c58c", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "73b727e1ea53", "score": 9, "topic": "expat_alert", "event": "Bangladeshi shops vandalised and looted in France", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T21:31:29.670544+00:00"}
+{"id": "f31133668c87", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:32:14.037206+00:00"}
+{"id": "91264b850302", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:32:14.037206+00:00"}
+{"id": "74beb41f55e4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:32:14.037206+00:00"}
+{"id": "d50979de1cb3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:32:14.037206+00:00"}
+{"id": "ae8ce40f5a23", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:32:14.037206+00:00"}
+{"id": "9aadb05c7360", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T21:32:14.037206+00:00"}
