@@ -578,3 +578,38 @@
 {"id": "6a17b50f6a87", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:02:58.432923+00:00"}
 {"id": "b664cae51dee", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:02:58.432923+00:00"}
 {"id": "19bc8ed06252", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:02:58.432923+00:00"}
+{"id": "8b47a899e43f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "a60613bade18", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "0a0c4e80cec6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "630724bd1e26", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "d4ea7724c5c0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "429460bfe294", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "e8408f8e417c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "9b3bbfcaba81", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "9698ed6ea9a8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "6b804dd2fa81", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "a395ec48623f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "85fd64af3720", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "8fe9c85966d3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "63f18739e6dd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "ffd108648172", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:31:11.197534+00:00"}
+{"id": "ffe74327970c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "8069d3e306a6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "955d27366cb6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "96a9a7b211fb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "467a8631cde6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "c29577ddf80d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "c78f2a0a9935", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "9c2bbbad7c56", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "a76605048d45", "score": 4, "topic": "flight_disruption", "event": "1,000 flights cancelled in Taiwan", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "6d8d16f1fae7", "score": 10, "topic": "expat_alert", "event": "7,500 Bangladeshis in Saudi prisons", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "d2368a026273", "score": 10, "topic": "expat_alert", "event": "35 Bangladeshis repatriated from Europe", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "f127b96607ff", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "fad27eaed712", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "6d80795f8038", "score": 7, "topic": "travel_advisory", "event": "UAE resident updates on regional tensions", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "9dc63830f865", "score": 6, "topic": "labour_rule", "event": "Abu Dhabi private school Emiratisation policy", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:04.539236+00:00"}
+{"id": "73779131d7b6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:26.687939+00:00"}
+{"id": "91d5bd11bae3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:26.687939+00:00"}
+{"id": "6f3ea6f7d474", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:26.687939+00:00"}
+{"id": "34aa0ce53f4d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:26.687939+00:00"}
+{"id": "2aee3c669a9c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:26.687939+00:00"}
