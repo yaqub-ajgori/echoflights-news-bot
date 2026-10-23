@@ -613,3 +613,54 @@
 {"id": "6f3ea6f7d474", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:26.687939+00:00"}
 {"id": "34aa0ce53f4d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:26.687939+00:00"}
 {"id": "2aee3c669a9c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T07:33:26.687939+00:00"}
+{"id": "165c2f6c00f6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "cf97f05bb5c4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "0acd243384f2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "0e6ef3989773", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "62e8052a52d5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "210f898b3365", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "e21027d8e498", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "608b2e737c4e", "score": 10, "topic": "expat_alert", "event": "7,500 Bangladeshis detained in Saudi prisons", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "bdadd4095ea3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "a14f2b1486e9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "3488382c040e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "3452e8dca676", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "1031778843b2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "d606e2b48b21", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "81d0e812188e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:01:17.864118+00:00"}
+{"id": "dac013dbde56", "score": 9, "topic": "expat_alert", "event": "Thirty-five Bangladeshis deported from Europe", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "1a1740e0f5df", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "94766cea2563", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "3a8406601ea6", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "9dfb3c9c790e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "68bf55798592", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "add67567e011", "score": 7, "topic": "flight_disruption", "event": "UAE flight cancellations and regional route disruptions", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "d4e381384661", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "c41b29446f25", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "001e62794d69", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "7a77902c2156", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "87c1890255c9", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "1aefc00fada4", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "b0055e4e3c30", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "d4bf3b2bc8a3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T08:02:29.937901+00:00"}
+{"id": "74eeaa725b89", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "62be3350f94b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "ea7639145db5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "b6e1ed265fcb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "f9cd2495269d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "dd8cc910c2f9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "a65d849683cd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "6bfeff642dbd", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "6d49d0dd2f81", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "6b1d2e55585e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "91275cfead6f", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "ff971d66c0f8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "45e4b0ba4003", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "e83823b2ca35", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "bc8ddfb55c73", "score": 5, "topic": "other", "event": "Japan's new tax-free shopping rules", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:03:24.101473+00:00"}
+{"id": "c76ebbbb936b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:04:28.980082+00:00"}
+{"id": "62a8944964db", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:04:28.980082+00:00"}
+{"id": "c618bf4a2dc3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:04:28.980082+00:00"}
+{"id": "48b4cfd17938", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:04:28.980082+00:00"}
+{"id": "bd58bcc804ce", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:04:28.980082+00:00"}
+{"id": "7fe30445150c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T08:04:28.980082+00:00"}
