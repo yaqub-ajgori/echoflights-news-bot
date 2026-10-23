@@ -490,3 +490,28 @@
 {"id": "51c7d063a806", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:35:03.378471+00:00"}
 {"id": "5d4853a10347", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:35:03.378471+00:00"}
 {"id": "cfcd3c747f5c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T05:35:03.378471+00:00"}
+{"id": "282751c34372", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "62985b1a12bb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "320b66726053", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "15f60edb7430", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "e80ab6285cda", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "a5ee95f96a99", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "ec17d6c3e454", "score": 5, "topic": "airport", "event": "Kuwait airport fees included in airline tickets", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "1c856fdd20ae", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "28ea71fa34a1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "5db99155cf6b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "bf7693cb3f23", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "42aa131ccb67", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "3da2efe38cae", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "e27f4fb82cf4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "e0d2fc5c12bc", "score": 9, "topic": "flight_disruption", "event": "Etihad cancels Abu Dhabi to Saudi flights", "model": "gemma-4-31b-it", "scored": "2026-10-23T06:01:18.101602+00:00"}
+{"id": "c48843b06a30", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "1172918f965a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "126969a84a0d", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "fe09f457d7fb", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "6a5875100c97", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "8be1deb12a70", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "bdb5b20ea7bb", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "4517ea239844", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "03f75e622274", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
+{"id": "84bdac7c1b4a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-23T06:01:58.701081+00:00"}
