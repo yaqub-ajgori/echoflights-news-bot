@@ -1259,3 +1259,15 @@
 2026-10-23 17:04:40 40 candidates, 14 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 5, 'gemini-3.6-flash': 2}
 2026-10-23 17:04:40 calling gemini-3.5-flash-lite
 2026-10-23 17:05:09 done: candidates=40 groups={'already_drafted': 9, 'single_source': 2} drafts=0 errors=0
+2026-10-23 17:34:18 draft run started
+2026-10-23 17:34:18 40 candidates, 14 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 5, 'gemini-3.6-flash': 2}
+2026-10-23 17:34:18 calling gemini-3.5-flash-lite
+2026-10-23 17:34:39 calling gemini-3.5-flash-lite
+2026-10-23 17:35:03 calling gemma-4-31b-it
+2026-10-23 17:35:23 calling gemma-4-31b-it
+2026-10-23 17:36:15 done: candidates=40 groups={} drafts=0 errors=5
+2026-10-23 17:36:15   error: gemini-3.5-flash-lite: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-23 17:36:15   error: gemini-3.5-flash-lite: HTTP 503 after 4s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-23 17:36:15   error: gemma-4-31b-it: HTTP 500 after 0s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
+2026-10-23 17:36:15   error: gemma-4-31b-it: HTTP 503 after 32s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'
+2026-10-23 17:36:15   error: cluster failed: gemini-3.5-flash-lite: HTTP 503 after 1s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",\n    "status": "UNAVAILABLE"\n  }\n}\n'; gemini-3.5-flash-lite: HTTP 503 a
