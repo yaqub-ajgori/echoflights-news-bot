@@ -2,6 +2,31 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদি আরবে হুতি হামলার তীব্র নিন্দা জানাল বাংলাদেশ
+
+✅ approved · 24 Oct 09:02 Dhaka · score 10 · expat_alert · sources: Bangladesh Diplomat, Bangladesh Journal
+
+<img src="2026-10-24/19d918546b/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবে একাধিক হুতি হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ। এসব হামলার একটিতে দুই বাংলাদেশি হতাহত হওয়ার খবর পাওয়া গেছে।
+
+শুক্রবার (২৩ অক্টোবর) পররাষ্ট্র মন্ত্রণালয়ের এক সংবাদ বিজ্ঞপ্তিতে এ তথ্য জানানো হয়। এতে বলা হয়, ক্ষতিগ্রস্ত পরিবারগুলোর প্রতি সমবেদনা জানানোর পাশাপাশি সৌদি সরকার ও জনগণের প্রতি সংহতি প্রকাশ করেছে বাংলাদেশ। একই সঙ্গে সব ধরনের হামলা অবিলম্বে বন্ধ করে কূটনৈতিক উদ্যোগের মাধ্যমে শান্তিপূর্ণ সমাধানের আহ্বান জানানো হয়েছে।
+
+সূত্র: Bangladesh Diplomat, বাংলাদেশ জার্নাল
+#SaudiArabia #Bangladesh #ExpatNews #MOFA #EchoFlights
+```
+
+**Blog:** [সৌদি আরবে হুতি হামলার তীব্র নিন্দা বাংলাদেশের: দুই বাংলাদেশি হতাহত](2026-10-24/19d918546b/blog.md) · slug `bangladesh-condemns-houthi-attacks-saudi-arabia`
+
+**Sources:** [Bangladesh Diplomat](https://bangladeshdiplomat.com/44211/latest/raw39132/) · [Bangladesh Diplomat](https://bangladeshdiplomat.com/44211/%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a7%80%e0%a6%af%e0%a6%bc/raw39132/) · [বাংলাদেশ জার্নাল](https://www.bd-journal.com/bangladesh/314618/সৌদিতে-ফের-হুতি-হামলার-নিন্দা-বাংলাদেশের) (feed summary only)
+
+_Rewritten once after review (1 issues in first draft)._
+
+---
+
 ## সৌদি আরবে আটকে পড়া প্রবাসীদের আকামা ও ভিসার মেয়াদ বাড়াতে কাজ করছে সরকার
 
 ✅ approved · 24 Oct 07:32 Dhaka · score 10 · labour_rule · sources: BD24Live, Bangladesh Diplomat
