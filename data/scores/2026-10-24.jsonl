@@ -297,3 +297,37 @@
 {"id": "17eee2e87a48", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
 {"id": "e6bd112ac102", "score": 4, "topic": "travel_advisory", "event": "Saudi Arabia issues emergency security alert for three cities", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:02:22.275799+00:00"}
 {"id": "e1e2d4a13e59", "score": 4, "topic": "flight_disruption", "event": "Lufthansa drops Dubai flights again over West Asia outlook", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:02:22.275799+00:00"}
+{"id": "d04854800c51", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "c941c128e646", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "43cca92b905d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "3ee11a92fc53", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "b004fa666788", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "eaa383dc2db5", "score": 4, "topic": "expat_alert", "event": "Houthi missile targeting Riyadh", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "739c37c17948", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "697d1729adb6", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "61db75c1767b", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "9cf423da960c", "score": 4, "topic": "expat_alert", "event": "Houthi missile targeting Riyadh", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "e2048e2480b4", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "63287c5b37d2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "e4ac1bcb8d84", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "f9aee32d0608", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "a92636460219", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:31:40.803476+00:00"}
+{"id": "91e66f1af028", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "32cbf0e73ce3", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "a7fffa242ed6", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "da55e3b815d2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "1092f648a6ec", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "2a0101b1cf71", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "18391f8236b5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "9edba75e8632", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "1c78bbea4ba8", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "932c2c26ca23", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "82e6c924f3cf", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "e86222274987", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "8c6bc574d730", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "1101de28dbf2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "2f96370e34c4", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:32:16.905285+00:00"}
+{"id": "80a97274cd20", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:32:49.810466+00:00"}
+{"id": "66ed35f9cadc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:32:49.810466+00:00"}
+{"id": "8380c432c502", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:32:49.810466+00:00"}
+{"id": "7fb35b871f43", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T03:32:49.810466+00:00"}
