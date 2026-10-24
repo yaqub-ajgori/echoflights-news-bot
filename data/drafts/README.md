@@ -2,6 +2,35 @@
 
 Newest first. Nothing here has been published.
 
+## ঢাকা থেকে রিয়াদ ও দাম্মামের ১৪১ ফ্লাইট বাতিল
+
+⏳ will retry · 24 Oct 10:33 Dhaka · score 10 · flight_disruption · sources: BD24Live, Bangladesh Journal, Dhaka Post, Prothom Alo
+
+<img src="2026-10-24/58e015da5a/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল ও স্থগিত করা হয়েছে। বেসামরিক বিমান চলাচল কর্তৃপক্ষের (বেবিচক) তথ্য অনুযায়ী, এতে ২১ হাজার ৯৩৩ জন যাত্রী সরাসরি ক্ষতিগ্রস্ত হয়েছেন।
+
+বাতিল হওয়া ফ্লাইটের মধ্যে ৬৬টি সরাসরি এবং ৭৫টি ট্রানজিট ফ্লাইট রয়েছে। সরাসরি ফ্লাইটের মধ্যে বিমান বাংলাদেশ এয়ারলাইন্সের ২৭টি, সৌদিয়ার ১৯টি, ইউএস-বাংলা এয়ারলাইন্সের ১০টি এবং রিয়াদ এয়ারের ১০টি ফ্লাইট রয়েছে। হুতিদের হামলার মুখে সৌদি আরবের বিমানবন্দরগুলোতে বিধিনিষেধ জারির কারণে এ সংকট তৈরি হয়।
+
+সূত্র: ঢাকা পোস্ট, প্রথম আলো, বাংলাদেশ জার্নাল
+#SaudiArabia #Riyadh #Dammam #FlightUpdate #Bangladesh #EchoFlights
+```
+
+**Blog:** [ঢাকা থেকে সৌদি আরবের রিয়াদ ও দাম্মামের ১৪১ ফ্লাইট বাতিল: ভোগান্তিতে প্রায় ২২ হাজার যাত্রী](2026-10-24/58e015da5a/blog.md) · slug `dhaka-riyadh-dammam-141-flights-cancelled`
+
+**Sources:** [ঢাকা পোস্ট](https://www.dhakapost.com/national/492472) · [প্রথম আলো](https://www.prothomalo.com/bangladesh/pnpe4lbhe7) · [বাংলাদেশ জার্নাল](https://www.bd-journal.com/bangladesh/314627/রিয়াদ-বিমানবন্দরে-হামলা-১৪১-ফ্লাইট-বাতিল-আটকে-পড়লেন-২২-হাজার-যাত্রী) (feed summary only)
+
+**Review notes (last attempt):**
+
+- card_subline: Grammatically incorrect and illogical phrasing; 'যার মধ্যে' (among whom/which) incorrectly suggests that the flights are a subset of the passengers.
+- blog_body: The section 'বাংলাদেশি যাত্রী ও প্রবাসীদের জন্য' containing advice for passengers is not supported by any of the provided sources.
+- -: rewrite could not run: gemini-3.8-flash: HTTP 503 after 3s b'{\n  "error": {\n    "code": 503,\n    "message": "This model is currently experiencing high demand. Spikes in d
+
+---
+
 ## কুয়েতে পাসপোর্ট হারালে অনলাইনে রিপোর্টের নতুন সেবা চালু
 
 ✅ approved · 24 Oct 09:33 Dhaka · score 9 · expat_alert · sources: Gulf News, Times Kuwait
