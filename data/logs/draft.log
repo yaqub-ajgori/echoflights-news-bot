@@ -1392,3 +1392,18 @@
 2026-10-24 03:05:47 attempt 2: passed with 0 issues
 2026-10-24 03:05:47 saved approved draft 19d918546b
 2026-10-24 03:05:47 done: candidates=40 groups={'already_drafted': 9, 'single_source': 5, 'verified': 1} drafts=1 errors=0
+2026-10-24 03:33:10 draft run started
+2026-10-24 03:33:10 40 candidates, 17 drafted in last 3 days, writer calls used {'gemini-3.8-flash': 10, 'gemini-3.6-flash': 2}
+2026-10-24 03:33:10 calling gemini-3.5-flash-lite
+2026-10-24 03:33:12 writing story 4a3d70e75a: Kuwait launches online service for reporting lost passports
+2026-10-24 03:33:12 fetching Gulf News: https://gulfnews.com/world/gulf/kuwait/kuwait-launches-online-service-for-expatriates-to-report-lost
+2026-10-24 03:33:13 fetching Times Kuwait: https://timeskuwait.com/kuwait-expats-can-now-report-lost-passports-through-sahel-app/
+2026-10-24 03:33:15 calling gemini-3.8-flash
+2026-10-24 03:34:55 calling gemma-4-31b-it
+2026-10-24 03:35:16 calling gemma-4-31b-it
+2026-10-24 03:35:36 calling gemini-3.5-flash-lite
+2026-10-24 03:35:37 attempt 1: passed with 0 issues
+2026-10-24 03:35:37 saved approved draft 4a3d70e75a
+2026-10-24 03:35:37 done: candidates=40 groups={'already_drafted': 7, 'single_source': 1, 'verified': 1} drafts=1 errors=2
+2026-10-24 03:35:37   error: gemma-4-31b-it: HTTP 500 after 1s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'
+2026-10-24 03:35:37   error: gemma-4-31b-it: HTTP 500 after 1s b'{\n  "error": {\n    "code": 500,\n    "message": "Internal error encountered.",\n    "status": "INTERNAL"\n  }\n}\n'

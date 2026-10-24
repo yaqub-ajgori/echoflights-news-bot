@@ -2,6 +2,30 @@
 
 Newest first. Nothing here has been published.
 
+## কুয়েতে পাসপোর্ট হারালে অনলাইনে রিপোর্টের নতুন সেবা চালু
+
+✅ approved · 24 Oct 09:33 Dhaka · score 9 · expat_alert · sources: Gulf News, Times Kuwait
+
+<img src="2026-10-24/4a3d70e75a/card.png" width="420">
+
+**Facebook caption**
+
+```
+📢 কুয়েতে প্রবাসীদের পাসপোর্ট হারালে অনলাইনে রিপোর্ট করার এবং অফিশিয়াল সার্টিফিকেট সংগ্রহের নতুন সেবা চালু করেছে দেশটির স্বরাষ্ট্র মন্ত্রণালয়।
+
+সরকারি সমন্বিত 'সাহেল' (Sahel) অ্যাপের সিকিউরিটি সার্ভিসেস সেকশনে "Certificate of Loss of Passport" নামের এই সুবিধা যুক্ত করা হয়েছে। এর ফলে প্রবাসীদের আর সরাসরি সরকারি দপ্তরে যেতে হবে না। অ্যাপে রিপোর্ট জমা দিয়ে সংশ্লিষ্ট কর্তৃপক্ষের কাছে উপস্থাপনের জন্য অফিশিয়াল সার্টিফিকেট সংগ্রহ করা যাবে। প্রশাসনিক প্রক্রিয়া সহজ করা ও ডিজিটাল সেবা বাড়াতে এই উদ্যোগ নেওয়া হয়েছে।
+
+সূত্র: Gulf News ও Times Kuwait
+
+#Kuwait #SahelApp #ExpatNews #KuwaitExpat #BangladeshiExpatriates #EchoFlights
+```
+
+**Blog:** [কুয়েতে পাসপোর্ট হারালে রিপোর্ট করার অনলাইন সেবা চালু করল স্বরাষ্ট্র মন্ত্রণালয়](2026-10-24/4a3d70e75a/blog.md) · slug `kuwait-online-service-reporting-lost-passports`
+
+**Sources:** [Gulf News](https://gulfnews.com/world/gulf/kuwait/kuwait-launches-online-service-for-expatriates-to-report-lost-passports-1.500720265) · [Times Kuwait](https://timeskuwait.com/kuwait-expats-can-now-report-lost-passports-through-sahel-app/)
+
+---
+
 ## সৌদি আরবে হুতি হামলার তীব্র নিন্দা জানাল বাংলাদেশ
 
 ✅ approved · 24 Oct 09:02 Dhaka · score 10 · expat_alert · sources: Bangladesh Diplomat, Bangladesh Journal
