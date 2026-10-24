@@ -57,3 +57,24 @@
 {"id": "739f81f606e7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
 {"id": "d01fd7fd2aa5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
 {"id": "b012a515d012", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
+{"id": "ab05d886531e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "f7468d68f5c5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "fcdbc121b59e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "6e6c910a0bf3", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "44940987071e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "a64a83c273b9", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "79f3eec74b21", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "ec817febd72c", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "50ea892d32f2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "e7680768f7d8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "f8c98b6a59ac", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "aee18c3d489a", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "f28814dbac72", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "5bd1e11c14c8", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "7a55e37fa8eb", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:02:00.754846+00:00"}
+{"id": "8c8ab500c938", "score": 10, "topic": "flight_disruption", "event": "Saudi airport restrictions cause 144 flight cancellations", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:03:50.550945+00:00"}
+{"id": "7171d056d0a1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:03:50.550945+00:00"}
+{"id": "97ee33901fcc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:03:50.550945+00:00"}
+{"id": "d3c94c2b6d66", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:03:50.550945+00:00"}
+{"id": "3f13148f53e1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:03:50.550945+00:00"}
+{"id": "911b706b6bff", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T19:03:50.550945+00:00"}
