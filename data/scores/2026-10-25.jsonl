@@ -35,3 +35,25 @@
 {"id": "04c078c27ec1", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T18:03:59.520341+00:00"}
 {"id": "5a0142528487", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T18:03:59.520341+00:00"}
 {"id": "4145640e4463", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T18:03:59.520341+00:00"}
+{"id": "3cfeea5d92d7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "5fa1b4ce40ff", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "896e8237884e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "0b562075751e", "score": 7, "topic": "accident", "event": "Aircraft veers off runway in Indonesia", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "11ce53bbbdd8", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "5df37e88c8e2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "186caf9d82e8", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "df87092df31a", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "f4d8abc4c9dd", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "94cdecc5bef7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "737f078243b2", "score": 8, "topic": "labour_rule", "event": "Kuwait launches nationwide security campaign to arrest violators", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "fecf2f729432", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "36871a225331", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "12643678596b", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "d34b88c5614e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:32:08.121220+00:00"}
+{"id": "9b510688120e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
+{"id": "474506b60fa6", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
+{"id": "cb5fd5e96543", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
+{"id": "a82d9c91bc9e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
+{"id": "739f81f606e7", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
+{"id": "d01fd7fd2aa5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
+{"id": "b012a515d012", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T18:33:12.764606+00:00"}
