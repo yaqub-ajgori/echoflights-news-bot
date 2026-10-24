@@ -2,6 +2,31 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদি আরবে আটকে পড়া প্রবাসীদের আকামা ও ভিসার মেয়াদ বাড়াতে কাজ করছে সরকার
+
+✅ approved · 24 Oct 07:32 Dhaka · score 10 · labour_rule · sources: BD24Live, Bangladesh Diplomat
+
+<img src="2026-10-24/29ad0be1fe/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবে আটকে পড়া বাংলাদেশি কর্মীদের ভিসা ও আকামার মেয়াদ বাড়াতে কাজ করছে সরকার।
+
+শুক্রবার সকালে হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে সাংবাদিকদের প্রশ্নের জবাবে এ তথ্য জানান পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম। তিনি জানান, আটকে পড়া প্রবাসীদের আকামা ও ভিসার মেয়াদ বাড়ানোর বিষয়ে সরকার তৎপর রয়েছে।
+
+সৌদি আরবের বিমানবন্দরে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী মোহাম্মদ শাহেদ আহমেদের মরদেহ গ্রহণকালে তিনি এ কথা বলেন। এ নিয়ে মধ্যপ্রাচ্যের সংঘাতে প্রাণ হারানো মোট ১১ জন প্রবাসীর মরদেহ দেশে ফেরত আনা হয়েছে বলে প্রতিমন্ত্রী উল্লেখ করেন।
+
+সূত্র: Bangladesh Diplomat ও বিডি২৪লাইভ
+#SaudiArabia #BangladeshiExpatriates #IqamaUpdate #ForeignMinistry #EchoFlights
+```
+
+**Blog:** [সৌদি প্রবাসীদের আকামা ও ভিসার মেয়াদ বাড়াতে কাজ করছে সরকার: পররাষ্ট্র প্রতিমন্ত্রী](2026-10-24/29ad0be1fe/blog.md) · slug `govt-working-to-extend-saudi-iqama-validity`
+
+**Sources:** [Bangladesh Diplomat](https://bangladeshdiplomat.com/44118/latest/raw38970/) · [বিডি২৪লাইভ](https://www.bd24live.com/bangla/810502)
+
+---
+
 ## সৌদির কারাগারে প্রায় সাড়ে সাত হাজার বাংলাদেশি বন্দী: পররাষ্ট্র প্রতিমন্ত্রী
 
 ✅ approved · 24 Oct 04:01 Dhaka · score 10 · expat_alert · sources: Bangladesh Diplomat, Bangladesh Journal, Prothom Alo
