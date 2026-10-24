@@ -2,6 +2,35 @@
 
 Newest first. Nothing here has been published.
 
+## সৌদি আরবে হামলায় নিহত বাংলাদেশি শাহেদের মরদেহ দেশে আনা হয়েছে
+
+❌ rejected · 25 Oct 00:33 Dhaka · score 10 · expat_alert · sources: BD24Live, Dhaka Post, Prothom Alo
+
+<img src="2026-10-25/9b2f0fe5e9/card.png" width="420">
+
+**Facebook caption**
+
+```
+সৌদি আরবের রিয়াদে বিমানবন্দরে হামলায় নিহত বাংলাদেশি কর্মী শাহেদ আহম্মেদের মরদেহ দেশে পৌঁছানোর পর পরিবারের কাছে হস্তান্তর করা হয়েছে।
+
+পররাষ্ট্র মন্ত্রণালয় জানায়, গত ১০ অক্টোবর রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হুতিদের ক্ষেপণাস্ত্র হামলায় শাহেদ নিহত হন। শুক্রবার সকালে তাঁর মরদেহ ঢাকায় পৌঁছালে পরিবারের হাতে তুলে দেওয়া হয় এবং সরকারের পক্ষ থেকে আর্থিক সহায়তা প্রদান করা হয়। পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম জানান, গত এক মাসে সৌদি আরবে ক্ষেপণাস্ত্র হামলায় তিন বাংলাদেশি নিহত হয়েছেন এবং বাকিদের মরদেহও দ্রুত দেশে আনার চেষ্টা চলছে।
+
+সূত্র: প্রথম আলো, ঢাকা পোস্ট
+#ExpatNews #SaudiArabia #Bangladesh #Riyadh #EchoFlights
+```
+
+**Blog:** [সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশি কর্মী শাহেদের মরদেহ দেশে আনা হয়েছে](2026-10-25/9b2f0fe5e9/blog.md) · slug `saudi-arabia-attack-bangladeshi-worker-body-returned`
+
+**Sources:** [প্রথম আলো](https://www.prothomalo.com/bangladesh/jfnjva46i6) · [প্রথম আলো](https://www.prothomalo.com/bangladesh/district/s2i86vh7r3) · [ঢাকা পোস্ট](https://www.dhakapost.com/country/492384)
+
+**Review notes (last attempt):**
+
+- blog_body: Source 2 and Source 3 state that the burial was scheduled for the afternoon (e.g., বিকেল ৫টায় জানাজা), but the blog body states that the burial was already completed by Friday afternoon upon reaching the village, which contradicts the timeline of the funeral/burial given the arrival time of 2:30 PM.
+
+_Rewritten once after review (1 issues in first draft)._
+
+---
+
 ## ঢাকা থেকে রিয়াদ ও দাম্মাম রুটে ১৪১টি ফ্লাইট বাতিল
 
 ✅ approved · 24 Oct 11:06 Dhaka · score 10 · flight_disruption · sources: BD24Live, Bangladesh Diplomat, Bangladesh Journal, Dhaka Post, Prothom Alo
