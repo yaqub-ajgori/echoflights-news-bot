@@ -216,3 +216,23 @@
 {"id": "cbf42a3837b2", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T01:31:26.878592+00:00"}
 {"id": "d80c4e281b63", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T01:31:26.878592+00:00"}
 {"id": "fad47981a2d5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T01:32:33.922193+00:00"}
+{"id": "320e3d3326c2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "c8dfb8681a05", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "29b330d81045", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "41facb7d6534", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "60fb70dc79e5", "score": 10, "topic": "flight_disruption", "event": "Missile attack Riyadh airport flights canceled", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "f88e68264bb2", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "20d28c49c7bc", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "c3277dfe4078", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "c35b70c331f7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "dc166d793b62", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "4030e8710607", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "787a07e2c2f7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "2294a0a900d0", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "4047c8aea930", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "f1140bd8a5de", "score": 4, "topic": "other", "event": "Aircraft to replace Boeing 747", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:15.755551+00:00"}
+{"id": "e8dc193183f7", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:58.863410+00:00"}
+{"id": "3e60cf104526", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:58.863410+00:00"}
+{"id": "64d3d575dff5", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:58.863410+00:00"}
+{"id": "b0788797c759", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:58.863410+00:00"}
+{"id": "5f58f93fbf4d", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:01:58.863410+00:00"}
