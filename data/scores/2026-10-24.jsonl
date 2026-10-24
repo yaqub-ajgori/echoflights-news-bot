@@ -280,3 +280,20 @@
 {"id": "9002352f57ae", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:33:58.139365+00:00"}
 {"id": "b27bbe0b8131", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:33:58.139365+00:00"}
 {"id": "e77c64b8150e", "score": 0, "topic": "other", "event": "", "model": "gemma-4-31b-it", "scored": "2026-10-24T02:33:58.139365+00:00"}
+{"id": "f8e73c59324f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "39e30289a2e1", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "cec46ad1d484", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "ea1db2df6df5", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "ce1ae85190ca", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "f964745bbee6", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "80b65197148e", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "e6ab1df80207", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "79c31465c7b8", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "9a13ffe2d46f", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "4951fe689bf0", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "20e8bfa53ec4", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "b325d82e3769", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "78773f713bee", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "17eee2e87a48", "score": 0, "topic": "other", "event": "", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:01:57.636018+00:00"}
+{"id": "e6bd112ac102", "score": 4, "topic": "travel_advisory", "event": "Saudi Arabia issues emergency security alert for three cities", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:02:22.275799+00:00"}
+{"id": "e1e2d4a13e59", "score": 4, "topic": "flight_disruption", "event": "Lufthansa drops Dubai flights again over West Asia outlook", "model": "gemini-3.5-flash-lite", "scored": "2026-10-24T03:02:22.275799+00:00"}
